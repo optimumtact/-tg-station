@@ -1,0 +1,398 @@
+<!-- start 5 -->
+
+<h5>Sunday, April 25, 18:53</h5>
+
+ <li>
+	<strong>New graphics:</strong>
+<ul>
+	  <li>
+	  <strong>Side Facing Sprites:</strong> Player sprites will now face in all directions when moving. Holy shit!
+	  </li>
+	</ul>
+  </li>
+
+<h5>Monday 2.0, April 19, 2100</h5>
+<ul>
+  <li>
+	<strong>New features:</strong>
+	<ul>
+	  <li>
+    	  <strong>Disposal System:</strong> The station now has a fully functional disposal system for throwing away nuclear authentication disks and old, dirty clowns.</strong>
+  	  </li>
+	  <li>
+	  <strong>Breakable Windows:</strong> Windows are breakable by projectiles and thrown items (including people), shards hurt your feet.
+  	  </li>
+  	  <li>
+	  <strong>Status Display:</strong> Station escape shuttle timers now function as status displays modifiable from the bridge.
+  	  </li>
+  	  <li>
+	  <strong>Space Heater:</strong> Space heaters for heating up cold spaces, in space.
+	</ul>
+  </li>
+  <li>
+	<strong>New items:</strong>
+	<ul>
+	  <li> 
+	  <strong>Welding Mask:</strong> Helps engineers shield their eyes when welding.
+  	  </li>
+  	  <li>
+	  <strong>Utility Belt:</strong> Function as toolboxes equippable in the belt slot.
+  	  </li>
+        <li>
+	  <strong>Mouse Trap:</strong> Hurt your feet, especially if you aren't wearing shoes!
+  	  </li>
+	  <li>
+	  <strong>Power Sink:</strong> Traitor item that rapidly drains power.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>New graphics:</strong>
+	<ul>
+	  <li>
+	  <strong>North Facing Sprites:</strong> Player sprites will now face north when moving north.
+	  </li>
+	  <li>
+	  <strong>Hidden Pipes:</strong> Pipes are now hidden underneath floor tiles.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>New robot: Medibot</strong>
+	<ul>
+	  <li>
+        Automatically attempts to keep crewmembers alive by injecting them with stuff.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>New robot: Mulebot</strong>
+	<ul>
+	  <li>
+        Allows quartermasters to automatically ship crates to different parts of the station.
+	  </li>
+	</ul>
+  </li>
+</ul>
+
+<h5>Funday, December 31, 2099</h5>
+<h2>"FINALLY, DEV IS OUT"</h2>
+<ul>
+  <li>
+    <strong>Changes:</strong>
+    <ul>
+      <li>
+	    <strong>Atmos system GREATLY OPTIMIZED!</strong>
+	  </li>
+	  <li>
+	    <strong>Brand new station layout!</strong>
+	  </li>
+	  <li>
+	    <strong>Robust chemical interaction system!</strong>
+	  </li>
+	  <li>
+	    <strong><u><i><font color=red>HOLY FUCK PLAYING THIS GAME ISN'T LIKE TRODDING THROUGH MOLASSES ANYMORE</strong></u></i></font>
+	  </li>
+	  <li>
+	    <strong>Feature:</strong> If two players collide with "Help" intent, they swap positions.
+	  </li>
+	</ul>
+  </li>
+</ul>
+
+<h5>Tuesday, February 23, 2010</h5>
+<ul>
+  <li>
+    <strong>OH NO STRANGLING GOT NERFED:</strong> Insta-strangling (hopefully) removed. Victim no longer instantly loses consciousness.
+  </li>
+</ul>
+
+<h5>Sunday, February 21, 2010</h5>
+<ul>
+  <li>
+    <strong>Cloning Machine:</strong> The Geneticist spilled coffee on the Genetics Machine's revival module and it was too costly to replace!
+	<ul>
+	  <li>
+        Clones may or may not have horrible genetic defects.
+	  </li>
+	</ul>
+  </li>
+</ul>
+
+<h5>Thursday, February 18, 2010</h5>
+<ul>
+  <li>
+    <strong>New feature:</strong> Obesity from overeating in a short period of time.
+  </li>
+</ul>
+
+<h5>Sunday, February 14, 2010</h5>
+<ul>
+  <li>
+    <strong>New feature:</strong> Station destruction cinematic if the crew loses in AI Malfunction or Nuclear Emergency.
+  </li>
+  <li>
+    <strong>New Position: Tourist</strong>
+	<ul>
+	  <li>
+        Centcom has entered the lucrative business of space tourism! Enjoy an event-filled vacation on the station, and try not to get killed.
+	  </li>
+	  <li>
+		Guest accounts are now restricted to selecting Tourist in Character Setup.
+	  </li>
+	</ul>
+  </li>
+</ul>
+
+<h5>Friday, February 5, 2010</h5>
+<ul>
+  <li>
+    <strong>AI:</strong> Added 30 second cooldown to prevent spamming lockdowns.
+  </li>
+</ul>
+
+<h5>Wednesday, February 2, 2010</h5>
+<ul>
+  <li>
+    <strong>Feature:</strong> Character preview in Character Setup!
+  </li>
+</ul>
+
+<h5>Tuesday, February 2, 2010</h5>
+<ul>
+  <li>
+    <strong>New item:</strong> Drinking glasses that you can fill with water.
+  </li>
+  <li>
+    <strong>Feature:</strong> Sounds now pan in stereo depending on your position from the source.
+  </li>
+</ul>
+
+<h5>Saturday, December 5, 2009</h5>
+<ul>
+  <li>
+    <strong>Traitor tweak:</strong> Agent cards can now be forged into a fake ID.
+  </li>
+</ul>
+
+<h5>Friday, December 4, 2009</h5>
+<ul>
+  <li>
+	<strong>Supply Dock 2.0:</strong> The Supply Dock has been redesigned and now features conveyer belts! Amazing!
+  </li>
+  <li>
+	<strong>New uniforms:</strong> The Research Director, Chief Engineer, and the research jobs have new uniforms. The Head of Security has a cool new hat which happens to be his most prized possession.
+  </li>
+  <li>
+	<strong>Merged research:</strong> The first act of the Research Director is to merge Toxins and Chemistry into a single Chemical Lab. Hooray!
+  </li>
+  <li>
+	<strong>Robot tweak:</strong> You can now observe robots using the observe command.
+  </li>
+  <li>
+	<strong>Stamps:</strong> The heads now have stamps to stamp papers with, for whatever reason.
+  </li>
+</ul>
+
+<h5>Monday, November 30, 2009</h5>
+<ul>
+  <li>
+	<strong>Supply Shuttle 1.0:</strong> Now you can order new supplies using Cargo Bay north of the autolathe.
+  </li>
+  <li>
+	<strong>New containers:</strong> The game now features a variety of crates to hold all sorts of imaginary space supplies.
+  </li>
+   <li>
+	<strong>New position: Quartermaster</strong>
+	<ul>
+	  <li>
+        A master of supplies. Manages the cargo bay by taking shipments and distributing them to the crew.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>New position: Research Director</strong>
+	<ul>
+	  <li>
+        The head of the SS13 research department. He directs research and makes sure that the research crew are working.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>New position: Chief Engineer</strong>
+	<ul>
+	  <li>
+        Boss of all the engineers. Makes sure the engine is loaded and that the station has the necessary amount of power to run.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>New robot: Securibot</strong>
+	<ul>
+	  <li>
+        Automatically stuns and handcuffs criminals listed in the security records. It's also really goddamn slow.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>New jumpsuits:</strong> Engineers and Atmos Techs have new jumpsuits to distinguish between them easier.
+  </li>
+</ul>
+
+<h5>Friday, November 27, 2009</h5>
+<ul>
+  <li>
+	<strong>Monkey AI 2.0:</strong> Monkeys will now get angry, going after random human targets with the ability to wield weapons, throw random objects, open doors, and break through glass/grilles. They're basically terminators.
+  </li>
+  <li>
+	<strong>New gamemode: Monkey Survival</strong>
+	<ul>
+	  <li>
+        Survive a horde of angry monkeys busting through the station's airvents and rampaging through the station for 25 minutes.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>New robots: Cleanbot and Floorbot</strong>
+	<ul>
+	  <li>
+        Cleanbots automatically clean up messes and Floorbots repair floors.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>New spell: Mindblast</strong>
+	<ul>
+	  <li>
+        Causes brain damage, progressively causing other players to become even more retarded.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>Alien Races</strong>
+	<ul>
+	  <li>
+        Wizards may randomly spawn as illithids, who gain Mind Blast for free, and nuke agents may randomly spawn as lizardmen.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>Station shields:</strong> The station now has a toggleable forcefield that can only be destroyed by meteors or bombs. Takes a lot of station power to use.
+  </li>
+  <li>
+	<strong>Traitor scaling:</strong> Number of traitors/wizards/agents now scales to number of players.
+  </li>
+  <li>
+	<strong>New food item: Donk pockets</strong>
+	<ul>
+	 <li>
+	Delicious and microwavable, gives a bigger health boost for traitors.
+	 </li>
+	</ul>
+  </li>
+  <li>
+	<strong>Cigarettes:</strong> Now you can fulfill your horrible nicotine cravings. The detective starts with a zippo lighter and pack of cigarettes. Other packs can be be obtained via vending machines.
+  </li>
+  <li>
+	<strong>Warning signs:</strong> The station is now filled with various warning signs and such.
+  </li>
+  <li>
+	<strong>Updated graphics:</strong> Many, many objects have had their graphics updated including pipes, windows, tables, and closets. HUD graphics have been updated to be easier to understand.
+  </li>
+  <li>
+	<strong>Lighting fixes:</strong> New turf is now correctly lit instead of being completely dark.
+  </li>
+  <li>
+	<strong>Meteor fixes:</strong> The code and graphics for meteors has been fixed so the meteor gametype is more playable, sort of.
+  </li>
+  <li>
+	<strong>Escape shuttle fix:</strong> The shuttle can now be called in Revolution and Malfunction, but the shuttle will be recalled before it arrives. This way players can no longer call the shuttle to figure out the game mode during secret.
+  </li>
+  <li>
+	<strong>Changelog updated:</strong> New changelog entry for Thanksgiving thanks to Haruhi who will probably update the changelog from now on after almost a month of neglect.
+  </li>
+</ul>
+
+<h5>Monday, November 3, 2009</h5>
+<ul>
+  <li>
+    <strong>Bug fix:</strong> Made most pop-up windows respect the close button.
+  </li>
+</ul>
+
+<h5>Sunday, October 25, 2009</h5>
+<ul>
+  <li>
+    <strong>Randomized naming:</strong> Names for Central Command and Syndicate are now randomized.
+  </li>
+</ul>
+
+<h5>Saturday, October 24, 2009</h5>
+<ul>
+  <li>
+    <strong>Bug fix:</strong> PDAs had their code cleaned up. Notice any problems? Report them.
+  </li>
+  <li>
+    <strong>New syndicate item:</strong> Detomatix Cartridge, allows remote detonation of PDAs (rather weak explosion)!
+  </li>
+  <li>
+    <strong>Feature:</strong> Remotely detonating PDAs has a chance of failure depending on the PDA target, a critical failure will result in the detonation of your own PDA.
+  </li>
+</ul>
+
+<h5>Monday, October 19, 2009</h5>
+<ul>
+  <li>
+    <strong>Gibbing update:</strong> Gibbing stuff has been rewritten, robots now gib nicer.
+  </li>
+  <li>
+    <strong>LIGHTING!!!:</strong> The station now has dynamic lighting and associated items.
+  </li>
+</ul>
+
+<h5>Friday, October 16, 2009</h5>
+<ul>
+  <li>
+	<strong>Poo v1.0~:</strong> This has caused many ragequits.
+  </li>
+  <li>
+	<strong>Flushable toilets:</strong> You can now use toilets to place your vile, disgusting and irreprehensible excretions (you disgusting children). Just be careful what you flush!
+  </li>
+</ul>
+<h5>Monday, October 12, 2009</h5>
+<ul>
+  <li>
+	<strong>Feature:</strong> Emergency oxygen bottles can be clipped to your belt now.
+  </li>
+  <li>
+	<strong>Clothing update:</strong> Bedsheets are now wearable.
+  </li>
+  <li>
+	<strong>Updated HUD:</strong> A few minor tweaks to the inventory panel. Things might not be exactly where you're used to them being.
+  </li>
+</ul>
+<h5>Monday, September 28, 2009</h5>
+<ul>
+  <li>
+	<strong>New position: Chef</strong>
+	<ul>
+	  <li>
+        Maintains the Cafeteria, has access to Kitchen and Freezer, Food creation will be in shortly.
+	  </li>
+	</ul>
+  </li>
+  <li>
+	<strong>Food update</strong>: Food items now heal Brute/Burn damage. The amount recovered varies between items.
+  </li>
+</ul>
+<h5>Saturday, August 29, 2009</h5>
+<ul>
+  <li>
+  	<strong>AI laws update:</strong> Nanotrasen has updated its AI laws to better reflect how they wish AIs to 
+    operate their stations.
+  </li>
+  <li>
+  	<strong>Traitor item change:</strong> E-mag renamed to Cryptographic Sequencer.
+  </li>
+</ul>
+

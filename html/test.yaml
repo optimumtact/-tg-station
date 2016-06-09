@@ -1,0 +1,1811 @@
+2011-02-14:
+  /tg/station team:
+  - unknown: !!python/unicode ' Valentine''s day'
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode '<b>Slight speed up for combat mechs..</b>'
+  - unknown: !!python/unicode '<b><font color="red">Added H.O.N.K construction</font></b>'
+  - unknown: !!python/unicode '<b>Fixed bug with switching intent while in mecha.</b>'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b><font color="red">New Job!</font> - Shaft Miners
+      have finally been added and are available to play.</b>'
+  - unknown: !!python/unicode '<b><font color="red">Mining outpost</font> - A new
+      mining outpost has been built, the mining dock on SS13 has been updated.</b>'
+2011-02-15:
+  /tg/station team:
+  - unknown: !!python/unicode ' Tuesday'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b>Mining station will now charge properly.</b>'
+  - unknown: !!python/unicode '<b>Duffle bags (Money bags) can now be emptied.</b>'
+  !!python/unicode 'Rastaf0':
+  - unknown: !!python/unicode '<b>Added radio channels and headsets for miners (<tt>:h</tt>
+      or <tt>:d</tt> ("diggers" lol)) and for cargo techs (<tt>:h</tt> or <tt>:q</tt>
+      )</b>'
+  - unknown: !!python/unicode '<b>Added a personal headsets to HoP and QM.</b>'
+  - unknown: !!python/unicode '<b>Aliens now attack bots instead of opening control
+      window.</b>'
+  - unknown: !!python/unicode '<b>All bots can be damaged and repaired.</b>'
+  - unknown: !!python/unicode '<b>All bots are effected to EMP now.</b>'
+  - unknown: !!python/unicode '<b>Atmos now starts with nitrous oxide in storage tank.</b>'
+  !!python/unicode 'Veyveyr':
+  - unknown: !!python/unicode '<b>New look for the pipe dispenser.</b>'
+2011-02-18:
+  /tg/station team:
+  - unknown: !!python/unicode ' Friday'
+  !!python/unicode 'AtomicTroop':
+  - unknown: !!python/unicode '<b><font color="red">Mail Sorter job added.</font></b>'
+  - unknown: !!python/unicode '<b><font color="red">Disposal system redone to allow
+      for package transfers. Packages are routed to mail sorter room and then routed
+      to the rest of the station</font></b>'
+  - unknown: !!python/unicode '<b>Disposal area moved. Old disposal area now just
+      an incinerator and a small disposal into space.</b>'
+  - unknown: !!python/unicode '<b>New wrapping paper for sending packages.</b>'
+  !!python/unicode 'Darem updates:':
+  - unknown: !!python/unicode '<b><font color="red">Research and Development system
+      is LIVE.</font> Scientists can now research new advancements in technology.
+      Not much can be made, right now, but the system is there. Technologies are researched
+      by shoving items into the destructive analyzer. Circuit Imprinter, Destructive
+      Analyzer, and Protolathe are controlled from the R&amp;D console.</b>'
+  - unknown: !!python/unicode '<b>Autolathe, Protolathe, Destructive Analyzer, and
+      Circuit Imprinter can now be built, taken apart, and upgraded. The basic frame
+      for all of the above requires 5 metal.</b>'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b>New look for the bio suits. (Biosuit and hood sprites
+      by Cheridan)</b>'
+  - unknown: !!python/unicode '<b>New radiation suits added along with radiation hoods
+      and masks. Must wear complete set to get full protection.</b>'
+  !!python/unicode 'Rastaf0':
+  - unknown: !!python/unicode '<b>Binary translator cost reduced to 1 telecrystal.</b>'
+  !!python/unicode 'Veyveyr updates:':
+  - unknown: !!python/unicode '<b>New machine frame sprite.</b>'
+  - unknown: !!python/unicode '<b>Braincase sprites for mechs added. Not actually
+      used, yet.</b>'
+2011-02-20:
+  /tg/station team:
+  - unknown: !!python/unicode ' Sunday'
+  !!python/unicode 'Darem':
+  - unknown: !!python/unicode '<b>Mass Spectrometer added to R&amp;D. Load it with
+      a syringe of blood and it will tell you the chemicals in it. Low reliability
+      devices may yield false information.</b>'
+  - unknown: !!python/unicode '<b>Not all devices have a 100% reliability now.</b>'
+  - unknown: !!python/unicode '<b>Miners now have access to mint foyer and loading
+      area. Only captain has access to the vault.</b>'
+  - unknown: !!python/unicode '<b>More stuff can be analyzed in the destructive analyzer,
+      protolathe can produce intelicards.</b>'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b>Slight updates to processing unit and stacking machine
+      at the mining outpost.</b>'
+  - unknown: !!python/unicode '<b>Digging now yields sand, which can be smelted into
+      glass.</b>'
+  - unknown: !!python/unicode '<b>Stacking machine can now stack reinforced metal,
+      regular and reinforced glass too.</b>'
+  - unknown: !!python/unicode '<b>Engineers now have two copies of the singularity
+      safety manual.</b>'
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode '<b>Magboots now have a verb toggle like jumpsuit sensors.</b>'
+  - unknown: !!python/unicode '<b>Jumpsuit sensors are now in all jumpsuits, except
+      tactical turtlenecks.</b>'
+  - unknown: !!python/unicode '<b>Tweaks to the AI report at round start.</b>'
+  - unknown: !!python/unicode '<b>Syndi-cakes now heal traitors/rev heads/etc much
+      more than anyone else.</b>'
+  - unknown: !!python/unicode '<b>Containment fields zap once again.</b>'
+  - unknown: !!python/unicode '<b>Fire damage meter no longer lies about fire damage.</b>'
+  !!python/unicode 'Rastaf0':
+  - unknown: !!python/unicode '<b>Added blast door button to atmospherics.</b>'
+  - unknown: !!python/unicode '<b>Toxins timer-igniter assemblies fixed.</b>'
+  - unknown: !!python/unicode '<b>Engineering secure storage expanded.</b>'
+  - unknown: !!python/unicode '<b>Added singularity telescreen.</b>'
+2011-02-23:
+  /tg/station team:
+  - unknown: !!python/unicode ' Red Army Day'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b>Added cloning manual. (Written by Perapsam)</b>'
+  !!python/unicode 'K0000':
+  - unknown: !!python/unicode '<b><font color="red">Cult mode updates.</font></b>'
+  - unknown: !!python/unicode '<b>You can now read the arcane tome. It contains a
+      simple guide for making runes.</b>'
+  - unknown: !!python/unicode '<b>Converting people doesnt give them word knowledge.</b>'
+  - unknown: !!python/unicode '<b>Sacrifice monkeys or humans to gain new words.</b>'
+  - unknown: !!python/unicode '<b>Total number of rune words set to 10</b>'
+  - unknown: !!python/unicode '<b>Some minor bugfixes.</b>'
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode '<b>Fixed the ''be syndicate'' choice to actually work
+      on nuke rounds.</b>'
+  - unknown: !!python/unicode '<b><font color="red">Syndicates no longer win if they
+      detonate the nuke on their ship.</font></b>'
+  !!python/unicode 'Rastaf0':
+  - unknown: !!python/unicode '<b>Secbot interface updated.</b>'
+  - unknown: !!python/unicode '<b>Syringe auto-toggels mode when full.</b>'
+  - unknown: !!python/unicode '<b>Captain''s flask volume increased.</b>'
+  !!python/unicode 'Uhangi':
+  - unknown: !!python/unicode '<b>Antitox and Inaprovaline now mixable via chemistry.</b>'
+  - unknown: !!python/unicode '<b>Explosive Ordinance Disosal (EOD) suits added to
+      armory and security.</b>'
+  - unknown: !!python/unicode '<b>Large beaker now holds 100 units of chemicals. (code
+      by Slith)</b>'
+2011-02-24:
+  /tg/station team:
+  - unknown: !!python/unicode ' Thursday'
+  !!python/unicode 'Darem':
+  - unknown: !!python/unicode '<b>Lighting code fixed for mining and thermite.</b>'
+  - unknown: !!python/unicode '<b>R&amp;D instruction manual added to the R&amp;D
+      lab.</b>'
+  - unknown: !!python/unicode '<b>Fixed R&amp;D disk commands not working.</b>'
+  - unknown: !!python/unicode '<b>Added portable power generators which run on solid
+      plasma.</b>'
+  - unknown: !!python/unicode '<b>You can now set the numer of coins to produce in
+      the mint.</b>'
+  - unknown: !!python/unicode '<b>Added two more portable power generators to R&amp;D.</b>'
+  !!python/unicode 'Deeyach':
+  - unknown: !!python/unicode '<b>New uniform for roboticists</b>'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b>Slight mapping change to arrival hallway.</b>'
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode '<b>Game speed increased</b>'
+  - unknown: !!python/unicode '<b>Mining stacking machine no longer devours stacks
+      larger than 1 sheet (it was only increasing its stock by 1 when given a stacked
+      stack)</b>'
+  - unknown: !!python/unicode '<b>Stackable uranium ore added (a better sprite is
+      needed, contributions are welcome)</b>'
+  - unknown: !!python/unicode '<b>Made Meteor gamemode actually do stuff</b>'
+  - unknown: !!python/unicode '<b>Made a bigger class of meteor</b>'
+  - unknown: !!python/unicode '<b>New R&amp;D item: Advanced Energy Gun</b>'
+  - unknown: !!python/unicode '<b>Law priority clarified with regards to ion laws
+      and law 0.</b>'
+  !!python/unicode 'Uhangi':
+  - unknown: !!python/unicode '<b>New red bomb suit for security.</b>'
+  !!python/unicode 'Veyveyr':
+  - unknown: !!python/unicode '<b>Minor mapping fixes</b>'
+2011-03-02:
+  /tg/station team:
+  - unknown: !!python/unicode ' Wednesday'
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode '<b>Added mecha control console and mecha tracking beacons.</b>'
+  - unknown: !!python/unicode '<b>Some changes to gygax construction.</b>'
+  !!python/unicode 'Darem':
+  - unknown: !!python/unicode '<b>R&amp;D minor bugfixes.</b>'
+  - unknown: !!python/unicode '<b>AI computer can now be deconstructed (right click
+      and select ''accessinternals'').</b>'
+  - unknown: !!python/unicode '<b>Server room updated, added server equipment to use
+      with R&amp;D.</b>'
+  - unknown: !!python/unicode '<b>Wizard and ghost teleport lists are now in alphabetical
+      order, ghosts can now teleport to the mining station.</b>'
+  - unknown: !!python/unicode '<b>Rightclicking and examining a constructable frame
+      now tells you what parts still need to be finished.</b>'
+  - unknown: !!python/unicode '<b>Large grenades added to R&amp;D.</b>'
+  !!python/unicode 'Deeyach':
+  - unknown: !!python/unicode '<b>Mining given to the CE. (Reverted by Errorage)</b>'
+  - unknown: !!python/unicode '<b>Clowns can now pick a new name upon entering the
+      game (like wizards previously).</b>'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b>Mapping updates including Atmospherics department
+      map fixes, CE''s office and some lights being added here and there.</b>'
+  - unknown: !!python/unicode '<b><font color="red">Mining once again given to the
+      quartermaster and HoP. The CE has no business with mining.</font></b>'
+  - unknown: !!python/unicode '<b>Removed the overstuffed Atmos/Engineering supply
+      room.</b>'
+  - unknown: !!python/unicode '<b>Replaced all ''engineering'' doors in mining with
+      maintenance doors as they were causing confusion as to which department mining
+      belongs to.</b>'
+  - unknown: !!python/unicode '<b>The incinerator is now maintenance access only.</b>'
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode '<b>New look for the advanced energy gun. (Sprite by
+      Cheridan)</b>'
+  - unknown: !!python/unicode '<b>Mech fabricator accepts non-standard materials.</b>'
+  - unknown: !!python/unicode '<b>Mules accesses fixed, so they can be unlocked once
+      again.</b>'
+  - unknown: !!python/unicode '<b><font color="red">Atmospherics department mapping
+      overhaul. (Map by Hawk_v3)</font></b>'
+  - unknown: !!python/unicode '<b>Added more name options to arcade machines.</b>'
+2011-03-06:
+  !!python/unicode 'Deeyach':
+  - unknown: !!python/unicode '<b>Roboticists now spawn with a lab coat and an engineering
+      pda</b>'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b><font color="red">No. I did not code on my birthday!</font></b>'
+  - unknown: !!python/unicode '<b>Windows can now be rotated clockwise and counter
+      clockwise.</b>'
+  - unknown: !!python/unicode '<b>Window creating process slightly changed to make
+      it easier.</b>'
+  - unknown: !!python/unicode '<b>Fixed the newly made reinforced windows bug where
+      they weren''t properly unfastened and unscrewed.</b>'
+  - unknown: !!python/unicode '<b>Examination room has a few windows now.</b>'
+  - unknown: !!python/unicode '<b>Can you tell I reinstalled Windows?</b>'
+  - unknown: !!python/unicode '<b>Robotics has health analyzers.</b>'
+  - unknown: !!python/unicode '<b>Bugfixing.</b>'
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode '<font color="red"><b>Neo deserves a medal for all the
+      bugfixing he''s done!</b></font> --errorage'
+2011-03-15:
+  /tg/station team:
+  - unknown: !!python/unicode ' International Day Against Police Brutality'
+  !!python/unicode 'Constanta':
+  - unknown: !!python/unicode '<b>Added queueing to fabricator.</b>'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b>Autolathe deconstruction fixed.</b>'
+  - unknown: !!python/unicode '<b>Atmos Entrance fixed.</b>'
+  - unknown: !!python/unicode '<b>AI no longer gibs themselves if they click on the
+      singularity.</b>'
+  - unknown: !!python/unicode '<b>Fixed all the issues I knew of about storage items.</b>'
+  - unknown: !!python/unicode '<b>Redesigned Assembly line and surrounding maintenance
+      shafts.</b>'
+  - unknown: !!python/unicode '<b>Redesigned Tech storage. (Map by Veyveyr)</b>'
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode '<b>New R&amp;D Item: The ''Bag of holding''. (Sprite
+      by Cheridan)</b>'
+  - unknown: !!python/unicode '<b>Getting someone out of the cloner now leaves damage,
+      which can only be fixed in the cryo tube.</b>'
+  - unknown: !!python/unicode '<b>New reagent: Clonexadone, for use with the cryo
+      tube.</b>'
+  - unknown: !!python/unicode '<b>Fixed using syringes on plants.</b>'
+  !!python/unicode 'Rastaf0':
+  - unknown: !!python/unicode '<b>Air alarms upgraded.</b>'
+  - unknown: !!python/unicode '<b>Fixed problem with AI clicking on mulebot.</b>'
+  - unknown: !!python/unicode '<b>Airlock controller (as in EVA) now react to commands
+      faster.</b>'
+  - unknown: !!python/unicode '<b>Fixed toxins mixing airlocks.</b>'
+  !!python/unicode 'TLE':
+  - unknown: !!python/unicode '<b><font color="red">Forum account activation added.
+      Use the ''Activate Forum Account'' verb.</font></b>'
+2011-03-18:
+  !!python/unicode 'Deeaych':
+  - unknown: !!python/unicode '<b>The exam room has some extra prominence and features.</b>'
+  - unknown: !!python/unicode '<b>A new costume for the clown or mime to enjoy.</b>'
+  - unknown: !!python/unicode '<b>Service Cyborgs can be picked! Shaker, dropper,
+      tray, pen, paper, and DOSH to show their class off. When emagged, the friendly
+      butler-borg is able to serve up a deadly last meal. </b>'
+  - unknown: !!python/unicode '<b>It should now be possible to spawn as a cyborg at
+      round start. Spawned cyborgs have a lower battery life than created cyborgs
+      and begin the round in the AI Foyer.</b>'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<b>You can now use the <i>me</i> command for emotes!
+      It works the same as <i>say "*custom"</i> set to visible.</b>'
+  - unknown: !!python/unicode '<b>There is now a wave emote.</b>'
+  - unknown: !!python/unicode '<b>Enjoy your tea!</b>'
+  !!python/unicode 'Rastaf0':
+  - unknown: !!python/unicode '<b>Fixed an issue with examining several objects in
+      your hands (such as beakers).</b>'
+  - unknown: !!python/unicode '<b>Fixed bug with random last name being empty in rare
+      cases.</b>'
+  !!python/unicode 'hunterluthi':
+  - unknown: !!python/unicode '<b>It is now possible to make 3x3 sets of tables.</b>'
+  - unknown: !!python/unicode '<b>Fixed some missplaced grilles/lattices on the port
+      solar.</b>'
+  - unknown: !!python/unicode '<b>There is now a breakroom for the station and atmos
+      engineers. It has everything an intelligent young engineer needs. Namely, Cheesy
+      Honkers and arcade games.</b>'
+2011-03-23:
+  /tg/station team:
+  - unknown: !!python/unicode ' World Meteorological Day'
+  !!python/unicode 'Agouri':
+  - unknown: !!python/unicode 'New look for the Request consoles.'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'You can now manually add coins into money bags, also
+      fixed money bag interaction window formatting.'
+  - unknown: !!python/unicode 'QM no longer has access to the entire mining station
+      to stop him from stealing supplies.'
+  - unknown: !!python/unicode 'New machine loading sprite for mining machinery. (sprites
+      by Cheridan)'
+  - unknown: !!python/unicode 'Added a messanging server to the server room. It''ll
+      be used for messanging, but ignore it for now.'
+  - unknown: !!python/unicode 'The delivery office now requires delivery office access.
+      It''s also no longer called "Construction Zone"'
+  - unknown: !!python/unicode 'Almost all the mecha parts now have sprites. (Sprites
+      by Cheridan)'
+  - unknown: !!python/unicode 'Tinted and frosted glass now look darker.'
+  - unknown: !!python/unicode 'There are now more money sprites.'
+  - unknown: !!python/unicode 'Department closets now contain the correct headsets.'
+  !!python/unicode 'Microwave':
+  - unknown: !!python/unicode 'Bicaridine now heals a lot better than before.'
+  - unknown: !!python/unicode 'Added Diethylamine, Dry Ramen, Hot Ramen, Hell Ramen,
+      Ice, Iced Coffee, Iced Tea, Hot Chocolate. Each with it''s own effects.'
+  - unknown: !!python/unicode 'Re-added pest spray to hydroponics.'
+  - unknown: !!python/unicode 'Carrots now contain a little imidazoline.'
+  - unknown: !!python/unicode 'HoS, Warden and Security Officer starting equipment
+      changed.'
+  - unknown: !!python/unicode 'New crate, which contains armored vests and helmets.
+      Requires security access, costs 20.'
+  - unknown: !!python/unicode 'Miner lockers now contain meson scanners and mining
+      jumpsuits.'
+  - unknown: !!python/unicode 'Food crate now contains milk, instead of faggots. Lightbulb
+      crates cost reduced to 5. Riot crates cost reduced to 20. Emergency crate contains
+      2 med bots instead of floor bots. Hydroponics crate no longer contains weed
+      spray, pest spray. It''s latex gloves were replaced with leather ones and an
+      apron. '
+  - unknown: !!python/unicode 'Added chef''s apron (can hold a kitchen knife) and
+      a new service borg sprite. '
+  - unknown: !!python/unicode 'Autolathe can now construct kitchen knives. '
+  - unknown: !!python/unicode 'Biosuit and syndicate space suits can now fit into
+      backpacks. '
+  - unknown: !!python/unicode 'Mime''s mask can now be used as a gas mask. '
+  - unknown: !!python/unicode 'Added welding helmet ''off'' sprites. '
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode 'Fixed PacMan (and affiliates) generator construction.'
+  - unknown: !!python/unicode 'It is now possible to actually eat omelettes with the
+      fork now, instead of just stabbing yourself (or others) in the eye with it.'
+  - unknown: !!python/unicode 'Welding masks can now be flipped up or down. Note that
+      when they''re up they don''t hide your identity or protect you from welding.'
+  - unknown: !!python/unicode 'Reagent based healing should now work properly.'
+  - unknown: !!python/unicode 'Revolver has been balanced and made cheaper.'
+  - unknown: !!python/unicode 'Tasers now effect borgs.'
+  - unknown: !!python/unicode 'Plastic explosives are now bought in single bricks.'
+  - unknown: !!python/unicode 'Nuke team slightly buffed and their uplink updated
+      with recently added items.'
+  - unknown: !!python/unicode 'Player verbs have been reorganized into tabs.'
+  - unknown: !!python/unicode 'Energy swords now come in blue, green, purple and red.'
+  - unknown: !!python/unicode 'Cameras are now constructable and dismantlable. (Code
+      donated by Powerful Station 13)'
+  - unknown: !!python/unicode 'Updated the change network verb for AIs. (Code donated
+      by Powerful Station 13)'
+  - unknown: !!python/unicode 'Added gold, silver and diamond pickaxes to R&amp;D
+      which mine faster.'
+  !!python/unicode 'Rastaf0':
+  - unknown: !!python/unicode 'Brig cell timers should now tick closer-to-real seconds.'
+  - unknown: !!python/unicode 'New look for food, including meat pie, carrot cake,
+      loaded baked potato, omelette, pie, xenopie and others. (some sprites by Farart)'
+  - unknown: !!python/unicode 'Hearing in lockers now works as intended.'
+  - unknown: !!python/unicode 'Fixed electronic blink sprite.'
+  - unknown: !!python/unicode 'Added the ''ghost ears'' verb, which allows ghosts
+      to not hear anything but deadcast.'
+  !!python/unicode 'Veyveyr':
+  - unknown: !!python/unicode 'Replaced nuke storage with a vault.'
+  - unknown: !!python/unicode 'Redesigned the mint, moved the public autolathe and
+      n2o storage.'
+  - unknown: !!python/unicode 'New look for the coin press. (Sprite by Cheridan)'
+  !!python/unicode 'XSI':
+  - unknown: !!python/unicode 'New AI core design.'
+  - unknown: !!python/unicode 'HoP now has a coffee machine!'
+2011-03-26:
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'Removed redundand steps from Gygax and HONK construction.'
+  - unknown: !!python/unicode 'Added some mecha equipment designs to R&amp;D.'
+  !!python/unicode 'Microwave':
+  - unknown: !!python/unicode 'Armor Can hold revolvers, and so can the detective''s
+      coat.'
+  - unknown: !!python/unicode 'Chef''s apron is going live, it can carry a knife,
+      and has a slight heat
+
+      resistance (only slight don''t run into a fire).'
+  - unknown: !!python/unicode 'Kitty Ears!'
+  - unknown: !!python/unicode 'Various food nutriment changes.'
+  - unknown: !!python/unicode 'Added RIGs to the Mine EVA.'
+  - unknown: !!python/unicode 'Night vision goggles. They have a range of five tiles.'
+  - unknown: !!python/unicode 'Added Foods: Very Berry Pie, Tofu Pie, Tofu Kebab.'
+  - unknown: !!python/unicode 'Modified foods: Custard Pie is now banana cream pie.'
+  !!python/unicode 'Rastaf0':
+  - unknown: !!python/unicode 'Food sprites from Farart'
+  - unknown: !!python/unicode 'New food: popcorn (corn in microwave), tofuburger (tofu+flour
+      in microwave), carpburger (carp meat+floor in microwave)'
+  - unknown: !!python/unicode 'Medical belts are finally in medbay (credits belong
+      to errorage, I only added it)'
+  - unknown: !!python/unicode 'Pill bottles now can fit in containers (boxes, medbelts,
+      etc) and in pockets.'
+  - unknown: !!python/unicode 'Cutting camera now leaves fingerprints.'
+2011-04-02:
+  /tg/station team:
+  - unknown: !!python/unicode ' International Children''s Book Day'
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'You can now put Mind-machine-interface (MMI)''d brains
+      into mecha.'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Added smooth lattice.'
+  !!python/unicode 'Microwave':
+  - unknown: !!python/unicode 'New look for the mining cyborg, jackhammer, kitchen
+      sink.'
+  - unknown: !!python/unicode 'Singularity is now enclosed again (still airless tho).'
+  - unknown: !!python/unicode 'Wizard has a new starting area.'
+  - unknown: !!python/unicode 'Chemists and CMOs now have their own jumpsuits.'
+2011-04-17:
+  /tg/station team:
+  - unknown: !!python/unicode ' World Hemophilia Day'
+  !!python/unicode 'Agouri':
+  - unknown: !!python/unicode '2001 space suits added to AI Satellite!'
+  - unknown: !!python/unicode 'New look for the 2001 space suit.'
+  - unknown: !!python/unicode '2001 space suit jetpack added.'
+  - unknown: !!python/unicode 'Improved TRAYS!'
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'Added mecha DNA-locking. Only the person with matching
+      UE can operate such mechs.'
+  - unknown: !!python/unicode 'Added two mecha armor booster modules and a repair
+      droid module.'
+  - unknown: !!python/unicode 'Mech fabricator is now buildable.'
+  - unknown: !!python/unicode 'Gygax construction is now reversible.'
+  !!python/unicode 'Deeaych':
+  - unknown: !!python/unicode 'Updated satchel, bananimum, shovel, jackhammer and
+      pick-in-hand sprites.'
+  - unknown: !!python/unicode 'Many unneeded r-walls removed, detective''s office
+      reinforced.'
+  - unknown: !!python/unicode 'Captain armor now acts as a space suit, added a unique
+      captain''s space helmet to captain''s quarters.'
+  - unknown: !!python/unicode 'Golems cannot speak, but should be perfectly spawnable.
+      Also added golem fat sprite.'
+  - unknown: !!python/unicode 'Security borgs have side sprites.'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Shuttle diagonal sprites now work for any kind of floor.'
+  - unknown: !!python/unicode 'You can now make plaques from gold. Place them on a
+      wall and engrave an epitaph.'
+  - unknown: !!python/unicode 'Placed a single wall tile in the AI satellite so you
+      don''t have a clear LOS of the AI from the door.'
+  - unknown: !!python/unicode 'Added arrivals lobby. (Map by Superxpdude, updated
+      by Microwave)'
+  - unknown: !!python/unicode 'Lattice now connects to the solar shields.'
+  - unknown: !!python/unicode 'Law office maintenance is now connected with Tech storage
+      maintenance. (Some rewiring dont in the area)'
+  - unknown: !!python/unicode 'Xenobiology now has it''s own access level. (Also fixed
+      xeno pen access and blast doors)'
+  - unknown: !!python/unicode 'You might soon start to see different airlocks and
+      airlock assemblies around the station. (Sprites donated by Baystation 12)'
+  - unknown: !!python/unicode 'Chemical storage added, discussion on which chemicals
+      it should store is on the forums. You''re welcome to contribute.'
+  - unknown: !!python/unicode 'Hot fires will now melt floors.'
+  - unknown: !!python/unicode 'Added a pair of market stalls south of the teleporter.
+      LET THERE BE CLOWNMART!'
+  - unknown: !!python/unicode 'Screwdrivers and wirecutters can now spawn in different
+      colors.'
+  - unknown: !!python/unicode 'Electrical toolboxes have a 5% chance of spawning a
+      pair of insulated gloves. A set spawns in tech storage.'
+  - unknown: !!python/unicode 'Oxygen canisters now spawn in emergency storage, near
+      disposal, in the incinerator and the CE''s office.'
+  - unknown: !!python/unicode 'A plasma canister now spawns in toxins, near the maintenance
+      door.'
+  - unknown: !!python/unicode 'Wooden tables now look nicer.'
+  !!python/unicode 'HAL':
+  - unknown: !!python/unicode 'Added air alarm to security checkpoint, added cameras
+      to aux. arrival docks so the AI can see everything.'
+  - unknown: !!python/unicode 'Added fire alarm, fire locks and air alarm to delivery
+      office.'
+  !!python/unicode 'Matty406':
+  - unknown: !!python/unicode 'AIs can now feel a little more dorfy.'
+  - unknown: !!python/unicode 'Many ores, both raw and smelted, look much better.'
+  !!python/unicode 'Microwave':
+  - unknown: !!python/unicode 'Rabbit ears have a small tail, night vision goggle
+      sprites updated.'
+  - unknown: !!python/unicode 'Space tea has a nice, calming effect.'
+  - unknown: !!python/unicode 'Space drugs? Liberty cap... something like that. Microwave,
+      make your changelog entries more understandable!'
+  - unknown: !!python/unicode 'Brobot merged with Service Borg with a Rapid Service
+      Fabricator.'
+  - unknown: !!python/unicode 'Arcade machine prizes look and sound realistic once
+      again.'
+  - unknown: !!python/unicode 'New arcade toy: Syndicate space suit costume, can hold
+      arcade toys in suit storage.'
+  - unknown: !!python/unicode 'Empty cap gun loaders can be recycled in an autolathe.'
+  - unknown: !!python/unicode 'Seizure man has laying down sprites now. Update to
+      wizard den.'
+  - unknown: !!python/unicode 'Mech bay has two more borg chargers.'
+  - unknown: !!python/unicode 'Beepsky is back!'
+  - unknown: !!python/unicode 'Detective''s office grille has been electrified.'
+  - unknown: !!python/unicode 'You can now see if someone is wearing an emergency
+      oxygen tank on their belt on the mob itself.'
+  - unknown: !!python/unicode 'Lexorin - Now deals 3 oxygen damage per tick. Countered
+      with Dexalin or Dexalin Pkus, which remove 2 units of it from your body per
+      tick.'
+  - unknown: !!python/unicode 'Bilk - Shares the effects of beer and milk. Disgusting!'
+  - unknown: !!python/unicode 'Sugar - Gives nutrition!'
+  - unknown: !!python/unicode 'Arithrazine - Now extremely good against radiation
+      damage.'
+  - unknown: !!python/unicode 'Hyronalin - Stronger radiation removal'
+  - unknown: !!python/unicode 'Space cleaner spray bottles now contain enough cleaner
+      for 50 uses. Making space cleaner now yields more cleaner.'
+  !!python/unicode 'Muskets':
+  - unknown: !!python/unicode 'Kabobs now return the bar used to make them.'
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode 'You can now aim guns at body parts, armor and helmets
+      properly protect you from projectiles.'
+  - unknown: !!python/unicode 'Cat ears now match the hair color of the wearer.'
+  - unknown: !!python/unicode 'Robots can no longer stick their items onto/into things.'
+  - unknown: !!python/unicode 'Meson, thermal and x-ray vision are now modules for
+      borgs.'
+  - unknown: !!python/unicode 'Welding now uses less fuel when on and idle but more
+      when welding.'
+  - unknown: !!python/unicode 'Hopefully fixed the bug when running into airlocks
+      didn''t open them and running into objects didn''t push them.'
+  !!python/unicode 'Noise':
+  - unknown: !!python/unicode 'Thermals and mesons no longer give slightly better
+      night vision.'
+  - unknown: !!python/unicode 'NINJAS! (Too many things to list)'
+  - unknown: !!python/unicode 'Wizards are no longer trackable by the AI when in their
+      den.'
+  - unknown: !!python/unicode 'Removed all old notes, except for the last one.'
+  - unknown: !!python/unicode 'Nuke team now cannot return with their shuttle until
+      the bomb is armed and counting down.'
+  - unknown: !!python/unicode 'Energy blades can no longer cut through r-walls, walls
+      take 7 seconds to cut through.'
+  - unknown: !!python/unicode 'Turrets are now destructible. Bash them with stuff
+      when they pop out or (more likely) die trying.'
+  - unknown: !!python/unicode 'Updated Ripley Mech sprite.'
+  !!python/unicode 'Rastaf0 and Farart':
+  - unknown: !!python/unicode 'Ghosts should now always properly hear people.'
+  - unknown: !!python/unicode 'Monkeyized people (genetics or jungle fever disease)
+      no longer lose their genetic mutations and diseases.'
+  - unknown: !!python/unicode 'People who get bitten by monkeys get jungle fever.'
+  - unknown: !!python/unicode 'Most chemicals should now heal and harm humans properly.'
+  - unknown: !!python/unicode 'Many new (and updated) recipes for the microwave including
+      Pizza, Meatball Soup, Hot Chili and many more.'
+  - unknown: !!python/unicode 'Items should no longer spawn under vendomats and microwaves.'
+  - unknown: !!python/unicode 'Runes are now drawn under doors and tables.'
+  - unknown: !!python/unicode 'Penlights fit in medical belts.'
+  - unknown: !!python/unicode 'People will scream if they get cremated while still
+      alive.'
+  - unknown: !!python/unicode 'Diseases should now properly make you loose health.'
+  - unknown: !!python/unicode 'Monkeys wearing masks now get acid protection too.'
+  - unknown: !!python/unicode 'You should probably turn off your stun baton before
+      washing it.'
+  - unknown: !!python/unicode 'latex loves + short piece of wire + some air from tank
+      = balloon!'
+  - unknown: !!python/unicode 'Kitchen was expanded, also a new look for the kitchen
+      sink.'
+  - unknown: !!python/unicode 'New dishware vending machine - dispenses knives, forks,
+      trays and drinking glasses.'
+  - unknown: !!python/unicode 'Water cooler was added to kitchen.'
+  - unknown: !!python/unicode 'New uniform - Waiter Outfit. Chef can give it to his
+      assistant.'
+  !!python/unicode 'Urist_McDorf':
+  - unknown: !!python/unicode 'You can now light other people''s cigarettes by targeting
+      their mouth with a lighter.'
+  !!python/unicode 'Veyveyr':
+  - unknown: !!python/unicode 'New tool sprites.'
+  - unknown: !!python/unicode 'New sprites for smooth-lattice.'
+2011-05-06:
+  /tg/station team:
+  - unknown: !!python/unicode ' AMURRICA FUCK YEAH day - Dangercon update'
+  !!python/unicode 'Agouri and Erro updated(I''m in the DangerCon team now, nyoro~n :3)':
+  - unknown: !!python/unicode 'Backpacks removed from all players. It was unrealistic.
+      You can now had to the living quarters to get one from the personal closets
+      there.'
+  - unknown: !!python/unicode 'Any firearms now send you to critical in 1-2 shots.
+      Doctors need to get the wounded man to surgery to provide good treatment. Guide
+      for bullet removal is up on the wiki.'
+  - unknown: !!python/unicode 'Brute packs and kelotane removed altogether to encourage
+      use of surgery for heavy injury.'
+  - unknown: !!python/unicode 'Just kidding'
+  - unknown: !!python/unicode 'Fireaxe cabinets and Extinguisher wall-mounted closets
+      now added around the station, thank Nanotransen for that.'
+  - unknown: !!python/unicode 'Because of Nanotransen being Nanotransen, the fire
+      cabinets are electrically operated. AIs can lock them and you can hack them
+      if you want the precious axe inside and it''s locked. The axe itself uses an
+      experimental two-handed system, so while it''s <u><font color="red">FUCKING
+      ROBUST</font></u> you need to wield it to fully unlock its capabilities. Pick
+      up axe and click it in your hand to wield it, click it again or drop to unwield
+      and carry it.You can also use it as a crowbar for cranking doors and firedoors
+      open when wielded, utilising the lever on the back of the blade. And I didn''t
+      lie to you. It''s fucking robust.'
+  - unknown: !!python/unicode "Fireaxe, when wielded, fully takes up your other hand\
+      \ as well. You can't switch hands and the fireaxe itself is unwieldy and won't\
+      \ fit anywhere. \n\t\t"
+  - unknown: !!python/unicode 'A fireaxe cabinet can also be smashed if you''ve got
+      a strong enough object in your hand.'
+  - unknown: !!python/unicode "\n\t\t"
+  - unknown: !!python/unicode "<b>EXTINGUISHER CLOSETS</b>, made by dear Erro, can\
+      \ be found in abundance around the station. Click once to open them, again to\
+      \ retrieve the extinguisher, attack with extinguisher to place it back. Limited\
+      \ uses, but we've got plans for our little friend.\n\t\t"
+  - unknown: !!python/unicode '<u>Sprite kudos go to: Cheridan for most of them, Khodoque
+      for the fantastic fireaxe head. I merged those two. Also thanks to matty and
+      Arcalane for giving it a shot.</u>'
+  - unknown: !!python/unicode '<font size="2"><i>Has the piano got TOO annoying? Try
+      the fire axe...</i></font>'
+  - unknown: !!python/unicode 'Oh, and tou can now construct Light floors! To do it:
+      Use wires on glass, then metal on the produced assembly, then place it on an
+      uncovered floor like you would when replacing broken floor tiles. To deconstruct:
+      Crowbar on light floor, use crowbar on produced assembly to remove metal, wirecutters
+      to seperate the wires from the glass. Sprites by delicious Hempuli.'
+  - unknown: !!python/unicode "Got something to bitch about? Got a bug to report?\
+      \ Want to create drama? Did the clown destroy your piano while you were playing\
+      \ an amazing space remix of the moonlight sonata? Give it <a href=\"http://code.google.com/p/tgstation13/source/detail?r=1543\"\
+      >here</a>\n\n\t"
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'Mech pilots are now immune to zapping, thank you very
+      much.'
+  !!python/unicode 'Rastaf.Zero':
+  - unknown: !!python/unicode 'New uniforms added for captain and chaplain, in their
+      respective lockers. Credits to Farart.'
+  !!python/unicode 'Urist McDorf':
+  - unknown: !!python/unicode 'Mime and Clown now spawn with Crayons. You can eat
+      those crayons. And use them for other nefarious purposes.'
+  - unknown: !!python/unicode 'Health Scanners (A new type of Goggles) now spawn in
+      medbay. Use them, doctors!'
+  - unknown: !!python/unicode 'New Arcade toy.'
+  - unknown: !!python/unicode 'Glowshrooms! What other lifeform will threaten the
+      welfare of the station now?!'
+  - unknown: !!python/unicode 'Bananas growable in hydroponics. Also soap is now on-board.'
+  - unknown: !!python/unicode 'Added new "Lights out!" random event.'
+2011-05-07:
+  /tg/station team:
+  - unknown: !!python/unicode ' Mother''s day?'
+  !!python/unicode 'Agouri':
+  - unknown: !!python/unicode 'Fireaxes now work. Derp.'
+  !!python/unicode 'Erro':
+  - unknown: !!python/unicode 'New sprites for thermited walls and girders. Rework
+      of thermited walls. Thermited walls leave a remnant damaged wall, crowbar it
+      to scrap it.'
+  - unknown: !!python/unicode 'More colors for the lightfloors <b>CANCELLED/POSTPONED</b>'
+  !!python/unicode 'Noise':
+  - unknown: !!python/unicode 'Codephrases for traitors. More details <a href="http://code.google.com/p/tgstation13/source/detail?r=1558">here</a>'
+  - unknown: !!python/unicode 'New mech sprite'
+2011-05-14:
+  /tg/station team:
+  - unknown: !!python/unicode ' late friday 13 update.'
+  !!python/unicode 'Darem':
+  - unknown: !!python/unicode 'Chemistry update'
+  - unknown: !!python/unicode 'In containers where there isn''t a perfect ratio of
+      reagents, reactions won''t consume ALL of the related reagents (so if you mix
+      10 anti-toxin with 20 inaprovaline, you get 10 tricordrazine and 10 inaprovaline
+      rather then just 10 tricodrazine)'
+  - unknown: !!python/unicode '<font color="red">Catalysts</font>: some reactions
+      might need presence of an element, while not directly consuming it.'
+  - unknown: !!python/unicode "Reactions changed to use catalysts: all recipes that\
+      \ require Universal Enzyme now require 5 units of the enzyme but the enzyme\
+      \ isn't consumed (So Tofu, Cheese, Moonshine, Wine, Vodka, and Kahlua recipes).\
+      \ \n\t"
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<font color="red">Smooth tables</font>: Tables now
+      automatically determine which direction and sprite they''ll use. They will connect
+      to any adjacent table unless there is a window between them (regular, reinforced,
+      tinted, whichever)'
+  !!python/unicode 'K0000':
+  - unknown: !!python/unicode '<font color="red">Cult updates:</font>'
+  - unknown: !!python/unicode '<b>New rune!</b> Stun rune. When used as rune, briefly
+      stuns everyone around (including cultists). When imbued into a talisman, hit
+      someone to stun and briefly mute them. Spawnable with the starter talisman.'
+  - unknown: !!python/unicode 'Imbue rune doesnt disappear after succesful invocation,
+      only the source rune.'
+  - unknown: !!python/unicode 'Chaplain''s bible now has 20% chance to convert a cultist
+      (was 10%), and gives a message on success.'
+  - unknown: !!python/unicode 'Also, wrapping paper is back! Find it in the mailroom.'
+  !!python/unicode 'NEO':
+  - unknown: !!python/unicode 'Beginning of armor overhaul. Armor now has slightly
+      better defence against melee, and weaker against shots. More coming soon...someday'
+  - unknown: !!python/unicode 'Cyborgs finally drop their MMI when gibbed like they
+      were supposed to back when I added MMIs. Round- start cyborgs use whatever name
+      you have selected for your character for the brain that gets spawned for them.'
+2011-05-19:
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Asteroid floors can be built on by adding tiles'
+  - unknown: !!python/unicode 'Mining satchels now fit in rig suit storage, on belts
+      and in pockets.'
+  - unknown: !!python/unicode 'Cables now come in four colors: Red, yellow, green
+      and blue.'
+  !!python/unicode 'NEO':
+  - unknown: !!python/unicode '<font color="red">Armour overhaul, phase 3. See <a
+      href="http://code.google.com/p/tgstation13/source/detail?r=1588">rev notes</a>
+      for details.</font>'
+  - unknown: !!python/unicode 'AI cores should now block movement.'
+  - unknown: !!python/unicode 'MMIs are now properly buildable with the mecha fabricator.'
+  !!python/unicode 'Urist':
+  - unknown: !!python/unicode 'Added sandstone and mineral doors. Mineral boors cannot
+      be opened by the AI or NPCs.'
+  - unknown: !!python/unicode 'Removed Imperium robes from map.'
+  - unknown: !!python/unicode 'Added the ability to draw letters and graffiti with
+      crayons.'
+  - unknown: !!python/unicode 'Removed fire axes except for bridge and atmospherics.'
+  !!python/unicode 'Veyveyr':
+  - unknown: !!python/unicode 'New serviceborg sprite option.'
+  - unknown: !!python/unicode 'Map changes to robotics; removed borg fabricators and
+      added second exosuit fabricator.'
+  - unknown: !!python/unicode '<font color="red">Cyborg parts are now built from exosuit
+      fabricators and benefit from research.</font>'
+  - unknown: !!python/unicode 'New exosuit fabricator and borg frame sprites.'
+2011-06-01:
+  /tg/station team:
+  - unknown: !!python/unicode ' Canadian Day Against Homophobia'
+  !!python/unicode 'Cheridan':
+  - unknown: !!python/unicode 'Updated mine floor and wall edge sprites.'
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'Added exosuit energy relay equipment. Uses area power
+      (any power channel
+
+      available) instead of powercell for movement and actions, recharges powercell.'
+  - unknown: !!python/unicode 'Exosuits can be renamed. Command is in Permissions
+      &amp; Logging menu.'
+  - unknown: !!python/unicode 'Lowered construction time for Ripley parts.'
+  - unknown: !!python/unicode 'Exosuit wreckage can be salvaged for exosuit parts
+      (torso, limbs etc).'
+  - unknown: !!python/unicode 'Speed-up for mecha.'
+  - unknown: !!python/unicode 'New malf-AI sprite. (Sprite donated by the D2K5 server)'
+  !!python/unicode 'Deuryn':
+  - unknown: !!python/unicode 'Meteors now do a bit more damage and they''re not stopped
+      by grills.'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Fixed twohanded weapon throwing, which left the ''off-hand''
+      object in your other hand.'
+  - unknown: !!python/unicode 'Doors now hide items under them when closed, mobs are
+      still always above.'
+  - unknown: !!python/unicode 'Singularity engine emitter is now much quieter.'
+  - unknown: !!python/unicode 'Mining station redesigned.'
+  - unknown: !!python/unicode 'Atmospherics'' misc gasses tank now starts with N2O.'
+  - unknown: !!python/unicode 'Hitting the resist button while handcuffed and buckled
+      to something will make you attempt to free yourself. The process is the same
+      as trying to remove handcuffs. When the 2 minutes pass you will be unbuckled
+      but still handcuffed.'
+  !!python/unicode 'Microwave':
+  - unknown: !!python/unicode 'Barman renamed to Bartender.'
+  - unknown: !!python/unicode 'The amount of drink you get when mixing things in the
+      bar has been rebalanced.'
+  - unknown: !!python/unicode 'Fixed arrivals maintenance shaft not having air at
+      round start.'
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode 'Department radio chat now shows with the department
+      name instead of the frequency.'
+  !!python/unicode 'Noise':
+  - unknown: !!python/unicode 'Changed holopad speaking to :h on request.'
+  - unknown: !!python/unicode 'Ninja fixes, changes, etc. Refer to the <a href="http://code.google.com/p/tgstation13/source/list"
+      target="_blank">code changelog</a> for more info.'
+  !!python/unicode 'TLE':
+  - unknown: !!python/unicode 'Added personal AIs (pAI).'
+  !!python/unicode 'Urist McDorf':
+  - unknown: !!python/unicode 'AIs no longer bleed when they reach 0HP (Critical health).'
+  - unknown: !!python/unicode 'Added 2 more security HUDs to security.'
+  - unknown: !!python/unicode 'Security HUDs now show if a person has a tracking implant.'
+  !!python/unicode 'Veyveyr':
+  - unknown: !!python/unicode 'Spent casing sprites + SMG sprite.'
+  - unknown: !!python/unicode 'Sprites for 1x4 and 1x2 pod doors.'
+2011-06-07:
+  !!python/unicode 'Darem':
+  - unknown: !!python/unicode 'Gun Code Overhaul Phase 1.'
+  - unknown: !!python/unicode 'Taser guns shoot ONE WHOLE SHOT more then they do now.'
+  - unknown: !!python/unicode 'Energy Crossbow has a slightly higher shot capacity
+      (still automatically recharges).'
+  - unknown: !!python/unicode 'Revolvers can either be loaded one shell at a time
+      or all at once with an ammo box.'
+  - unknown: !!python/unicode 'Shotguns no longer need to be pumped before firing
+      (will change back in phase 2). '
+  !!python/unicode 'K0000':
+  - unknown: !!python/unicode 'Arcane tome now has a "notes" option. Set English translations
+      for runewords which come up when scribing runes. Attack an arcane tome with
+      another arcane tome to copy your notes to the target tome.'
+  - unknown: !!python/unicode 'Stun rune buffed considerably. Its a 1-use item so
+      it deserved longer stun time.'
+  - unknown: !!python/unicode 'Tome text: Added missing word description for stun
+      rune.'
+  !!python/unicode 'Neo':
+  - unknown: !!python/unicode 'Nar-sie is now a more vengeful eldritch being. When
+      summoned into our world, he first rewards his loyal cultists by chasing down
+      and eating them first, then turns his attention to any remaining humans.'
+  !!python/unicode 'TLE':
+  - unknown: !!python/unicode 'Wiped/suicided pAIs should be eligible for being candidates
+      again (5 minute cooldown between prompts.) '
+  - unknown: !!python/unicode 'pAIs are now affected by EMP bursts. pAIs hit with
+      a burst will be silenced (no speech or PDA messaging) for two minutes and may
+      have their directives or master modified. A sufficiently powerful EMP burst
+      will have a 20% chance of killing a pAI. '
+2011-06-18:
+  !!python/unicode 'Agouri':
+  - unknown: !!python/unicode 'Bugfixes: The reagent grinding now works, allowing
+      the miners to FINALLY bring plasma to the chemistry.'
+  - unknown: !!python/unicode 'Bugfixes: Pill bottles and clipboards can now be removed
+      from the pockets once placed there.'
+2011-07-04:
+  !!python/unicode 'Agouri':
+  - unknown: !!python/unicode 'Sleepers are now able to heal every kind of damage.
+      Drag your ass to medbay and ask a doctor to get you in one.'
+  - unknown: !!python/unicode 'A lil'' bit faster cloning (about 30% faster) due to
+      popular demand.'
+  - unknown: !!python/unicode 'Sleepers are now all located in the inner part of medbay,
+      except for the examination room one.'
+  - unknown: !!python/unicode 'Added Dermaline, burn-healing drug that outpowers kelotane
+      (and kelotane is getting a major nerf, so be sure to know how to get this).
+      Recipe is on the wiki if you need to make it.'
+  - unknown: !!python/unicode 'Drugs no longer heal or metabolise when injected in
+      dead bodies, fuck. Thank god you guys missed this major bug or we''d have cloning-by-injecting-healing-drugs.'
+  - unknown: !!python/unicode "Reminder to coders: Goddamn, update the changelog.\n\
+      \t"
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode '<font color="red">A new alien race: Metroids!</font>
+      They are a mostly non-sentient race of jellyfish-like organisms that float in
+      the air and feed on the life energy of other organisms. While most Metroids
+      have never shown signs of self-awareness, they do exhibit signs of basic logic
+      and reasoning skills as well as very sophisticated perception. Nanotrasen has
+      shipped two baby Metroids for the xenobiology department. They should be handled
+      with the utmost care - they are some of the deadliest beings in the known universe!'
+  - unknown: !!python/unicode 'R&amp;D gets a new toy: the freeze gun. Despite popular
+      belief, this will not literally freeze things!'
+  - unknown: !!python/unicode 'Every single chemical reagent has been assigned a color.'
+  - unknown: !!python/unicode 'You can now see beakers fill up with chemicals. You
+      can also observe how the colors mix inside the beakers. Spray bottles also will
+      also show the color of whatever you''re spraying.'
+  - unknown: !!python/unicode 'Added a timestamp to combat logs.'
+  - unknown: !!python/unicode 'Non-insulated gloves now need to be wrapped in wire
+      in order to be electrified.'
+  - unknown: !!python/unicode 'You can now shoot at people on the ground by simply
+      clicking on the tile they''re on.'
+  - unknown: !!python/unicode 'Changeling husks are now uncloneable. To clarify: when
+      a changeling sucks out a victim''s DNA, the victim is said to become a "husk".'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Increased environmental damage by a factor of 1.5.'
+  - unknown: !!python/unicode 'Made firesuits a lot more resistant to heat. Previously,
+      they stopped protecting at around 4,500 degrees. They now go up to around 10,000
+      (which is also the temperature which the floor starts melting)'
+  - unknown: !!python/unicode 'Edited the quartermaster''s office a bit.'
+  - unknown: !!python/unicode 'Cargo technicians now have access to a cargo ordering
+      console.'
+  - unknown: !!python/unicode 'Added different-colored hardhats. The CE gets a white
+      hardhat.'
+  !!python/unicode 'Firecage':
+  - unknown: !!python/unicode 'A whole bunch of new drinks and food. Seriously, there''s
+      alot!'
+  - unknown: !!python/unicode 'New weapons such as the shock revolver and large energy
+      crossbow.'
+  - unknown: !!python/unicode 'Hydroponics can now grow a bunch more stuff. A lot
+      of these new crops have some very interesting mutations.'
+  - unknown: !!python/unicode 'Added a command for AIs to change their icon.'
+  - unknown: !!python/unicode 'New costumes to the costume room.'
+  !!python/unicode 'Matty':
+  - unknown: !!python/unicode 'New engineering backpacks. Enjoy!'
+  !!python/unicode 'Microwave':
+  - unknown: !!python/unicode 'Monkey boxes:'
+  - unknown: !!python/unicode 'Contains a score of monkey cubes, which you apply water
+      to create monkies. Nanotrasen provides only the finest technology!'
+  - unknown: !!python/unicode 'You can order monkey crates from the cargo bay. They
+      contain monkey boxes.'
+  - unknown: !!python/unicode 'Changed the amount of labels labelers have to 30. 10
+      was too low and 30 should not be <i>too</i> griefy.'
+  - unknown: !!python/unicode 'Maximum label text length increased from 10 to 64.'
+  - unknown: !!python/unicode 'You can no longer label people because they can just
+      peel the labels off. Sorry, clowns!'
+  - unknown: !!python/unicode 'Jelly dooonnuuuutsss! Happy birthday, officers!'
+  - unknown: !!python/unicode 'Made xenomeat not give any nutrition.'
+  - unknown: !!python/unicode 'Added some new reagents.'
+  - unknown: !!python/unicode 'Made it possible to feed monkies and xenos things,
+      as well as making it possible for them to eat themselves (please don''t read
+      that too literally).'
+  - unknown: !!python/unicode 'Added in synthiflesh.'
+  - unknown: !!python/unicode 'Plasma is now not used in reactions, instead, is treated
+      as a catalyst that is not used up. This only applies to certain reactions.'
+  - unknown: !!python/unicode 'Made it possible to grind more things in the chemistry
+      grinder.'
+  !!python/unicode 'Muskets':
+  - unknown: !!python/unicode 'The prepackaged songs (Space Asshole, Cuban Pete, Darkest
+      Honk, etc) have been removed. This doesn''t mean admins can''t play midis, this
+      just gets rid of a lot of unnecessary download time.'
+  !!python/unicode 'Rastaf.Zero':
+  - unknown: !!python/unicode 'Botanists get a new toy: Biogenerator. Insert biological
+      items, recieve biological items.'
+  - unknown: !!python/unicode 'Added roller beds, otherwise known as stretchers, to
+      medbay. You can buckle people onto them and pull them.'
+  - unknown: !!python/unicode 'Added egg-smashing and tomato-smashing decals.'
+  !!python/unicode 'Superxpdude updated':
+  - unknown: !!python/unicode 'Added in the Submachine Gun to R&amp;D.'
+  - unknown: !!python/unicode 'Syndicate agents now have Mini-Uzis.'
+  - unknown: !!python/unicode 'Added an exosuit recharged to the mining station.'
+  - unknown: !!python/unicode 'New labcoats for scientists, virologists, chemists,
+      and genetecists.'
+  - unknown: !!python/unicode 'Moved the vault and added a bridge meeting room next
+      to the HoP''s office.'
+  - unknown: !!python/unicode 'Deathsquad armor now functions like a space suit.'
+  - unknown: !!python/unicode 'Added in security jackboots.'
+  !!python/unicode 'Trubble Bass updated':
+  - unknown: !!python/unicode 'Hat crates. Hat Station 13.'
+  !!python/unicode 'Uhangi':
+  - unknown: !!python/unicode 'Traitors can now purchase syndicate balloons, which
+      serve no purpose other than to blow your cover. For a limited time only, you
+      can get them at a bargain price - just 10 telecrystals!'
+  - unknown: !!python/unicode 'Removed security shotguns from the armory. No fun allowed.'
+  - unknown: !!python/unicode 'Changed some bullet damage stuff.'
+  !!python/unicode 'Urist McDorf':
+  - unknown: !!python/unicode 'Adding shading to pills.'
+  - unknown: !!python/unicode 'Detective''s office noir look has been removed. The
+      icon operations required to render everything in monochrome was too heavy on
+      the players.'
+  - unknown: !!python/unicode 'Added in an uplink implant.'
+2011-07-29:
+  /tg/station team:
+  - unknown: !!python/unicode ' Day of Forum revival!'
+  !!python/unicode 'Agouri updated':
+  - unknown: !!python/unicode 'I was always bothered by how unprofessional it was
+      of Nanotransen (in before &gt;Nanotransen &gt;professionalism) to just lay expensive
+      spacesuits in racks and just let them be. Well, no more. Introducing...'
+  - unknown: !!python/unicode 'Suit Storage Units. Rumored to actually be repurposed
+      space radiators, these wondrous machines will store any kind of spacesuit in
+      a clean and sterile environment.'
+  - unknown: !!python/unicode 'The user can interact with the unit in various ways.
+      You can start a UV cauterisation cycle to disinfect its contents, effectively
+      sterilising and cleaning eveyrthing from the suits/helmets stored inside.'
+  - unknown: !!python/unicode 'A sneaky yordle can also hide in it, if he so desires,
+      or hack it, or lock it or do a plethora of shady stuff with it. Beware, though,
+      there''s plenty of dangerous things you can do with it, both to you and your
+      target.'
+  - unknown: !!python/unicode 'The Unit''s control panel can be accessed by screwdriving
+      it. That''s all I''m willing to say, I''d like to let the players find out what
+      each hack option does and doesn''t. Will add more stuff later.'
+  - unknown: !!python/unicode 'Added Command Space suit, Chief Engineer space suit
+      and Chief Medical Officer spacesuit (In a new space that you''ll probably notice
+      by yourself) to make it easier for you to look like a special snowflake.'
+  - unknown: !!python/unicode 'EVA and CMO office modified to accomodate the new suits
+      and SSUs. Look, I''m not a competent mapper, okay? Fuck you too. A mapper is
+      strongly recommended to rearrange my half assed shit.'
+  - unknown: !!python/unicode 'Soda cans, cigarette packets, cigarettes and cigars
+      as well as bullet casings are now considered trash and can be picked up by the
+      trashbag. Now you can annoy the janitor even more!'
+  - unknown: !!python/unicode 'Sprite credit goes to Alex Jones, his portfolio can
+      be found here: <a href="http://bspbox.com/">http://bspbox.com</a>. Thanks a
+      lot, bro.'
+  - unknown: !!python/unicode 'With the recent forum fuss and all that, I''ve got
+      a thread to specifically contain  rants and bug reports about this update. <a
+      href="http://tgstation13.servehttp.com/phpBB3/viewtopic.php?f=3&amp;t=5569&amp;p=45549&amp;sid=a4a96f5b0e896cd3e3f7c1db73f09f1b#p45549">Click
+      me</a>'
+  !!python/unicode 'Doohl updated':
+  - unknown: !!python/unicode 'Bugfix: Metroids should never "shut down" and just
+      die in a corner when they begin starving. And so, hungry Metroids are a force
+      to be feared.'
+  - unknown: !!python/unicode 'The Cargo computers now have the ability to cancel
+      pending orders to refund credits. This was put in place so that idiots couldn''t
+      waste all the cargo points and run off. However, if the shuttle is en route
+      to the station you won''t be able to cancel orders.'
+  - unknown: !!python/unicode 'Bugfix: the manifest has been fixed! Additionally,
+      the manfiest is now updated realtime; job changes and new arrivals will be automatically
+      updated into the manifest. Joy!'
+  - unknown: !!python/unicode 'Metroids, when wrestled off of someone''s head or beaten
+      off, now get stunned for a few seconds.'
+  !!python/unicode 'Errorage updated':
+  - unknown: !!python/unicode 'Hopefully fixed the derelict ''hotspots''. Derelict
+      medbay has also been fixed.'
+  !!python/unicode 'Uhangi updated':
+  - unknown: !!python/unicode 'EVA redesigned'
+  - unknown: !!python/unicode 'An electropack is now available once again on the prison
+      station'
+2011-07-30:
+  !!python/unicode 'Doohl updated':
+  - unknown: !!python/unicode 'New virus: Retrovirus. It basically screws over your
+      DNA.'
+  - unknown: !!python/unicode "You can now do CTRL+MOVEMENT to face any direction\
+      \ you want. See those chairs in Medbay and the Escape Wing? You can do CTRL+EAST\
+      \ to actually RP that you're sitting on them. Is this cool or what?!\n\t"
+  !!python/unicode 'Rockdtben updated':
+  - unknown: !!python/unicode 'Bugfix: Fixed a bug where you could dupe diamonds'
+  !!python/unicode 'Superxpdude Updated':
+  - unknown: !!python/unicode 'Engineer and CE space helmets now have built-in lights.'
+2011-08-02:
+  /tg/station team:
+  - unknown: !!python/unicode ' The day the earth stood still.'
+  !!python/unicode 'Agouri updated':
+  - unknown: !!python/unicode 'SSUs now correctly cycle and dump the unlucky occupant
+      when designated to supercycle, when the criteria to do so are met.'
+  - unknown: !!python/unicode 'Fixed bugshit'
+  - unknown: !!python/unicode 'You can now make normal martinis again, removed a silly
+      recipe conflict (Thanks, muskets.). Good barmen are urged to blend the good
+      ol'' recipes since the new ones have sprites that SUCK ASS JESUS CHRIST'
+2011-08-03:
+  !!python/unicode 'Superxpdude updated':
+  - unknown: !!python/unicode 'Virology Airlock changed to no longer cycle air. Should
+      work faster and prevent virologists from suffocating.'
+  - unknown: !!python/unicode 'Server Room APC is now connected to the power grid.'
+  - unknown: !!python/unicode 'Stun Batons now start OFF. Make sure to turn them on
+      before hitting people with them.'
+2011-08-05:
+  !!python/unicode 'Mport updated':
+  - unknown: !!python/unicode 'The various assemblies should be working now.'
+  - unknown: !!python/unicode 'Old style bombs and suicide vests temporarily removed.'
+2011-08-09:
+  !!python/unicode 'Mport updated':
+  - unknown: !!python/unicode 'Cyborgs once again have open cover/cell icons.'
+  - unknown: !!python/unicode 'To override a cyborg''s laws you must emag it when
+      the cover is open.'
+  - unknown: !!python/unicode 'Emags can unlock a cyborgs cover.'
+  - unknown: !!python/unicode 'Xbow radiation damage has been lowered from 100 to
+      20 a hit'
+2011-08-15:
+  !!python/unicode 'Superxpdude updated':
+  - unknown: !!python/unicode 'NEW MINING STATION, POST YOUR OPINIONS AND BUGS <a
+      href="http://nanotrasen.com/phpBB3/viewtopic.php?f=7&amp;t=5733">HERE</a>  '
+  - unknown: !!python/unicode 'Added some new awesome mining-related sprites by Petethegoat.
+      All credit for the sprites goes to him.'
+2011-08-16:
+  !!python/unicode 'Superxpdude updated':
+  - unknown: !!python/unicode 'Traitor item bundles: Contains a random selection of
+      traitor gear'
+2011-08-20:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'The smoke chemistry recipe has been upgraded! You can
+      lace smoke with chemicals that can bathe people or enter their lungs through
+      inhalation. Yes, this means you can make chloral hydrate smoke bombs. No, this
+      doesn''t mean you can make napalm smoke or foam smoke.'
+2011-08-26:
+  !!python/unicode 'Mport':
+  - unknown: !!python/unicode 'Rev:'
+  - unknown: !!python/unicode 'Cult:'
+2011-08-28:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'Chaplains can now select different bible icons when
+      they start. The selection is applied globally and the library''s bible printer
+      will print the same bibles.'
+  - unknown: !!python/unicode 'Joy to the world! The Library''s bible-printing function
+      now has a one-minute cooldown. One minute may seem a little extreme, but it
+      is necessary to prevent people from spamming the fuck out of everything with
+      100,000,000,000,000 carbon-copy bibles.'
+  - unknown: !!python/unicode 'Tweaked Metroids a bit; they are slightly more aggressive
+      and become hungrier faster. To compensate, they now move slightly slower.'
+2011-08-31:
+  !!python/unicode 'Lasty':
+  - unknown: !!python/unicode 'The costumes that spawn in the theatre are now randomized.'
+  - unknown: !!python/unicode 'The kitchen now has a Smartfridge which can be directly
+      loaded from the Botanist? plantbags. No more crates! (credit to Rolan7).'
+  - unknown: !!python/unicode 'Snappops can now be acquired from the arcade machines.
+      Amaze your friends! (credit to Petethegoat)'
+  - unknown: !!python/unicode 'Bangindonk.ogg added to random end sounds list.'
+  !!python/unicode 'Superpxdude':
+  - unknown: !!python/unicode 'The mail system actually works properly now! Probably!'
+  - unknown: !!python/unicode 'Most hats had their ?eadspace?tag removed, meaning
+      they will no longer substitute for a space helmet in protecting you from the
+      dangers of space.'
+  !!python/unicode 'Urist McDorf':
+  - unknown: !!python/unicode 'Players can no longer be randomly assigned to Librarian,
+      Atmospherics Technician, Chaplain, and Lawyer unless all other non-assisstant
+      job slots are full or they have those jobs in their preferences.'
+  - unknown: !!python/unicode 'Changeling mode now has multiple changelings.'
+2011-09-04:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'New escape shuttle!'
+  - unknown: !!python/unicode 'Metroids get hungry slower, but gain more nutrients
+      from eating.'
+  !!python/unicode 'Erro':
+  - unknown: !!python/unicode 'R''n''D and Gas Storage locations have been swapped
+      in order for R&amp;D to be given a hallway-facing table, just like Chemistry.'
+  - unknown: !!python/unicode 'Buckling someone to a chair now causes them to face
+      in the same direction as the chair.'
+  - unknown: !!python/unicode 'Conveyor will now move only 10 items per game cycle.
+      This is to prevent miners from overloading the belts with 2000 pieces of ore
+      and slowing down time by turning it on. Does not apply to mobs on belt.'
+  !!python/unicode 'Kor':
+  - unknown: !!python/unicode 'Added Necronomicon bible (credit Joseph Curwen)'
+  - unknown: !!python/unicode 'Removed Doc Scratch clothing from chaplain? locker
+      and added as a random spawn in the theatre.'
+  - unknown: !!python/unicode 'Shaft Miners now start with regular oxygen tanks.'
+  - unknown: !!python/unicode 'Mutate now gives the wizard hulk and OPTIC BLAST instead
+      of hulk and TK.'
+  - unknown: !!python/unicode 'Spiderman suit is no longer armoured or space worthy.'
+  - unknown: !!python/unicode 'Crayons'
+  !!python/unicode 'Lasty':
+  - unknown: !!python/unicode 'Switched xenomorph weeds to run in the background,
+      hopefully causing them to destroy the server slightly less.'
+  !!python/unicode 'Microwave':
+  - unknown: !!python/unicode 'Added sink to hydroponics'
+  - unknown: !!python/unicode 'Cleaned up autolathe menu'
+  - unknown: !!python/unicode 'Glasses and cups can now be filled with water from
+      sinks.'
+  !!python/unicode 'Superxpdude':
+  - unknown: !!python/unicode 'New, more appropriate arrivals message.'
+  - unknown: !!python/unicode 'Shuttle escape doors fixed.'
+  - unknown: !!python/unicode 'New RIG sprite.'
+  !!python/unicode 'Urist McDorf':
+  - unknown: !!python/unicode 'People who have been infected by facehuggers can no
+      longer suicide.'
+  - unknown: !!python/unicode 'Stammering has been reworked.'
+  - unknown: !!python/unicode 'The chaplain can now no longer discern what ghosts
+      are saying, instead receiving flavour text indicating that ghosts are speaking
+      to him.'
+  - unknown: !!python/unicode 'Walking Mushroom yield decreased from 4 to 1.'
+  - unknown: !!python/unicode 'Glowshrooms now only spread on asteroid tiles.'
+  - unknown: !!python/unicode 'Fixed rev round end message reporting everyone as dead.'
+  - unknown: !!python/unicode 'Gave the changeling an unfat sting.'
+2011-09-05:
+  !!python/unicode 'Rageroro':
+  - unknown: !!python/unicode 'Updates made to the HoP''s ID computer. New interface
+      and removing a card will now put it directly in your hand, if it''s empty. Using
+      your card on the computer will place it in the appropriate spot. If it has access
+      to edit cards it will put it as the authentication card, otherwise as the card
+      to be modified. If you have two cards with ID computer access first insert the
+      authentication card, then the one you wish to midify, or do it manually like
+      before.'
+  - unknown: !!python/unicode '<a id="easteregg1_link" onclick="changeText(''easteregg1_tag'',''&lt;font
+      color=\''red\''&gt;Has Hell frozen over yet?&lt;/font&gt;'',''easteregg1_link'')">Placed
+      extra fire suits in maintenance (Near eva and mining) and an extra fire closet
+      to atmos.</a> <span id="easteregg1_tag"></span>'
+2011-09-06:
+  !!python/unicode 'Cheridan':
+  - unknown: !!python/unicode 'New sprites for beds and air, plasma and nitrogen tanks
+      (The ones found in maintenance shafts).'
+  !!python/unicode 'Greek Rioter':
+  - unknown: !!python/unicode 'Removed dumb/badly sprited drinks for barman. This
+      is for you, people that love to play barman. Your job is now non-retarded again.
+      <font color="red"><b>EDIT: FIXED DRINK MIXING</b></font>'
+  - unknown: !!python/unicode 'More info here: <a href="http://code.google.com/p/tgstation13/source/detail?r=2136/"
+      target="_blank">rev2136</a>'
+  !!python/unicode 'Lasty':
+  - unknown: !!python/unicode 'Fixed the karma exploit! Uhangi can rest in peace knowing
+      his -87 karma ways were not his own.'
+  - unknown: !!python/unicode 'Added new ambient sound for space and the mines.'
+  - unknown: !!python/unicode 'Examining an oxygen tank will now tell you if it is
+      about to run out of air. If it is, you will recieve a beep and a message, and
+      if not, then you''ll just get the default "this is an oxygentank!" message.'
+  !!python/unicode 'Microwave':
+  - unknown: !!python/unicode 'Nuka Cola re-added. '
+  !!python/unicode 'Rageroro':
+  - unknown: !!python/unicode 'Sleeper update! Sleepers can now only inject soporific,
+      dermaline, bicaridine, and dexaline into people with 1% or more health. They
+      can also inject inaprovaline into people with -100% or more health. Nothing
+      can be injected into people who are dead.'
+  !!python/unicode 'Superxpdude':
+  - unknown: !!python/unicode 'Virology is now part of medbay, and as such the RD
+      no longer has Virology access and the CMO and Virologist no longer have Research
+      access.'
+  !!python/unicode 'Uhangi':
+  - unknown: !!python/unicode 'Electropacks, screwdrivers, headsets, radio signalers,
+      and station bounced radios can now be constructed from the autolathe. '
+  - unknown: !!python/unicode 'Added a courtroom to Centcom.'
+  - unknown: !!python/unicode 'Fixed electropack bug regarding using screwdrivers
+      on electropacks.'
+  !!python/unicode 'Urist McDorf':
+  - unknown: !!python/unicode 'Added XCom aliens, by Xerif (Donated by the <a href="http://www.ss13.org/"
+      target="_blank">Foundation project</a> )  '
+2011-09-08:
+  !!python/unicode 'Lasty':
+  - unknown: !!python/unicode 'Suicide has been changed to biting your tongue off
+      instead of holding your breath, and examining someone who has comitted suicide
+      will give you a message stating that their tongue is missing.'
+  - unknown: !!python/unicode 'Chemsprayers are now large items instead of small,
+      meaning they can no longer fit in your pocket.'
+2011-09-10:
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'A new pet on the bridge.'
+  - unknown: !!python/unicode 'The pet can now be buckled and will no longer escape
+      from closed containers, such as closets or the cloning pods.'
+  - unknown: !!python/unicode 'Vending machines and request consoles are the first
+      to use the new in-built browser in the upper-right of the user interface. If
+      feedback is positive on these, more machines will be added to this. Hoping that
+      this will eventually reduce the number of popup micromanagement.'
+  !!python/unicode 'Lasty':
+  - unknown: !!python/unicode 'The collectible hats have been removed from the theatre,
+      doomed to rot forever in the hat crates they spawned from. No longer shall you
+      see racks full of "collectible hard hat"!'
+  !!python/unicode 'Mport':
+  - unknown: !!python/unicode 'Synaptizine now once again helps you recover from being
+      stunned, however it is now also slightly toxic and may cause a small amount
+      of toxins damage for every tick that it is in your system.'
+  - unknown: !!python/unicode 'Assembly updating!'
+  - unknown: !!python/unicode 'Original blob is back, though it still has lava sprites.'
+  - unknown: !!python/unicode 'The bug where you would spawn on the wizard shuttle
+      for a second at the start of the round should no longer occur.'
+  !!python/unicode 'TLE':
+  - unknown: !!python/unicode 'You can now toggle the message for becoming a pAI on
+      and off in your prefs.'
+2011-09-11:
+  !!python/unicode 'toolboxed':
+  - unknown: !!python/unicode 'Ian can now be <a href="#" id="ian_link" onclick="changeText(''ian_tag'',''hurt
+      when attacked by items which cause brute damage.'', ''ian_link'')"><span id="ian_tag">toolboxed</span></a>.'
+  - unknown: !!python/unicode 'Ian can now be healed with bruisepacks, unless he''s
+      already dead.'
+  - unknown: !!python/unicode 'You can now walk over Ian when he''s killed.'
+  - unknown: !!python/unicode 'Ian will chase food, if you leave it on the floor.
+      If he notices it and you pick it up, he''ll chase you around, if you stay close
+      enough.'
+2011-09-13:
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Healing, attacking or ''gently tapping'' Ian will now
+      properly display the name of the attacker to all people.'
+  !!python/unicode 'Miss Phaeron':
+  - unknown: !!python/unicode 'E-Swords now have a chance to deflect projectiles when
+      active'
+  - unknown: !!python/unicode 'Taser/Laser shots now drain 40 battery per use from
+      a borg, as opposed to 20'
+  - unknown: !!python/unicode 'EMPs do 60 damage to borgs now, up from 25. They also
+      stun them momentarily and drain 1k charge'
+  - unknown: !!python/unicode 'As part of a joint effort between Mport, Falazameer,
+      and myself an Ion Rifle has been added to the armoury'
+  - unknown: !!python/unicode 'The Mutate spell now gives Laser Vision and Hulk'
+  !!python/unicode 'Vinyl Scratch':
+  - unknown: !!python/unicode 'Runtime!'
+  - unknown: !!python/unicode 'Mine ambience now fades out at the end so that not
+      only is it less jarring when it ends, but it also loops properly.'
+  - unknown: !!python/unicode 'Malfunctioning AI''s runtime message now has a voice
+      clip to go with it (courtesy of Rosen Ritter) '
+  - unknown: !!python/unicode 'Every headset will now display the commands for their
+      respective channels upon examine.'
+2011-09-14:
+  !!python/unicode 'Lasty':
+  - unknown: !!python/unicode 'Runtime now actually spawns in medbay because nobody
+      cared whether it is a tiny smugfaced espeon that explodes violently on death
+      or a spacecat that presumably doesn''t.'
+  - unknown: !!python/unicode 'You can no longer put someone into a sleeper and erase
+      them from existence by climbing into the same sleeper.'
+  - unknown: !!python/unicode 'Players who haven''t entered the game will no longer
+      be able to hear administrators in deadchat.'
+  !!python/unicode 'Mport, SECOND REMOVER OF SUNS':
+  - unknown: !!python/unicode 'Singularity absorbtion explosion range lowered and
+      is now dependent on singularity size.'
+  - unknown: !!python/unicode 'Bag of Holding no longer instakills singularity, and
+      the chance for bombs to destroy a singularity has been changed from 10% to 25%.'
+  - unknown: !!python/unicode 'Removed THE SUN.'
+  - unknown: !!python/unicode 'Damage and stun duration from shocked doors has been
+      lowered to account for a larger amount of energy in the powernet.'
+  !!python/unicode 'Pete':
+  - unknown: !!python/unicode 'Added new sprites for the light tube and glasses boxes.'
+  - unknown: !!python/unicode 'Fixed the bug where syndicate bundles would have an
+      emergency O2 tank and breath mask.'
+2011-09-17:
+  /tg/station team:
+  - unknown: !!python/unicode ' Operation Market Garden remembrance day:'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'You can now insert a coin into vending machines. Some
+      machines (currently only the cigarette vending machine) have special items that
+      you can only get to with a coin. No, hacking will not let you get the items,
+      coin only.'
+2011-09-18:
+  /tg/station team:
+  - unknown: !!python/unicode ' World Water Monitoring Day:'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Added the most fun activity in your every-day life.
+      Laundry. Check the dormitory. (Sprites by Hempuli)'
+  - unknown: !!python/unicode 'You can now change the color of jumpsuits, shoes, gloves
+      and bedsheets using the washing machine.'
+  - unknown: !!python/unicode 'Some religions (currently Islam, Scientology and Atheism)
+      set your chapel''s symbols to the symbols of that religion.'
+  - unknown: !!python/unicode 'A new old-style cabinet''s been added to the detective''s
+      office. (Sprite by Hempuli)'
+  - unknown: !!python/unicode 'Runtime the cat ran away!! And it gets even worse!
+      <a href="#" id="deempisi_link" onclick="changeText(''deempisi_tag'',''(Yes,
+      I had to look up the spelling...)'', ''deempisi_link'')">Mr. Deempisi</a> met
+      a premature end during an excursion to the kitchen''s freezer! <span id="deempisi_tag"></span>
+      -- I was ORDERED to do this... don''t kill me! :('
+  - unknown: !!python/unicode 'Kudzu can now be spawned (Currently admin-only. Will
+      test a bit, balance it properly and add it as a random event) (Original code
+      and sprites donated by I Said No)'
+  !!python/unicode 'Kor':
+  - unknown: !!python/unicode 'Added purple goggles to chemistry (you''re welcome
+      Lasty)'
+  - unknown: !!python/unicode 'Added a third MMI to robotics and monkey cubes to xenobio
+      (dont fucking spam them in the halls)'
+  !!python/unicode 'Mport':
+  - unknown: !!python/unicode 'Turns out tasers and a few other weapons were slightly
+      bugged when it came to checking the internal powercell. Tasers and such gained
+      an extra shot.'
+  - unknown: !!python/unicode 'Ion Rifle shots lowered to 5 per charge.'
+2011-09-20:
+  /tg/station team:
+  - unknown: !!python/unicode ' 10 year anniversary of the declaration of the "war
+      on terror":'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode '<font color="red">You can no longer clone people who
+      suicided. I REPEAT! You can no longer clone people who have suicided!</font>
+      So use suiciding more carefully and only if you ACTUALLY want to get out of
+      a round. You can normally clone people who succumbed tho, so don''t worry about
+      that.'
+  - unknown: !!python/unicode 'Washing your hands in the sink will now only wash your
+      hands and gloves. You can wash items if you have them in your hands. Both of
+      these actions are no longer instant tho.'
+2011-09-22:
+  /tg/station team:
+  - unknown: !!python/unicode ' OneWebDay:'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Added an additional 9 colors, into which you can color
+      bedsheets, jumpsuits, gloves and shoes at the washing machine.'
+  - unknown: !!python/unicode '<font color="red">A new click proc will need to be
+      live-tested</font>. The testing will be announced via OOC and you will get a
+      message when it happens. When testing is going on, the new click proc will be
+      used. If testing is going on and you notice a bug, please report it via adminhelp.
+      If you find yourself unable to perform an action, you can double click (By that
+      I mean spam the shit out of clicking) to use the old proc, which is unchanged
+      and will behave like you''re used to. <font color="red">Standard roleplay rules
+      apply during tests, they''re not an excuse to murder eachother.</font>'
+2011-09-28:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'Putting someone inside a cloning machine''s DNA scanner
+      will notify the person that they are about to be cloned. This completely removes
+      the necessity to announce over OOC for someone to get back in their body.'
+  !!python/unicode 'Rolan7':
+  - unknown: !!python/unicode 'New method for job assignment. Remember to review your
+      preferences. Send all your hate and bug reports to me.'
+2011-10-01:
+  !!python/unicode 'Knognob Lungsparkle':
+  - unknown: !!python/unicode 'Xenomorphic aliens can now shape resin membranes (organic
+      windows basically).'
+  - unknown: !!python/unicode 'The AI can no longer see runes. Instead, they will
+      see blood splatters.'
+2011-10-02:
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Opening a storage item on your belt will now display
+      the proper number of slots even if the number is different from 7.'
+  - unknown: !!python/unicode 'Less ponies, gryphons, and Tohou.'
+  !!python/unicode 'Petethegoat':
+  - unknown: !!python/unicode 'Pandemic recharge speed is affected by the number of
+      different types of antibodies in the blood sample. For maximum efficiency, use
+      blood samples with only a single type of antibody. (Blood samples with two types
+      of antibodies will still let the Pandemic recharge slightly faster than it used
+      to.)'
+2011-10-08:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'You can put things on trays and mass-transport them
+      now. To put stuff on trays, simply pick up a tray with items underneath/on top
+      of it and they''ll be automatically carried on top of the tray. Be careful not
+      to make a mess~!'
+  !!python/unicode 'Mport':
+  - unknown: !!python/unicode 'Telekenesis now only allows you to <i>pick up</i> objects.'
+  - unknown: !!python/unicode 'Stun gloves ignore intent.'
+  - unknown: !!python/unicode 'Moved the loyalty implants to the HoS'' locker.'
+  - unknown: !!python/unicode 'Job system redone, remember to setup your prefs.'
+2011-10-11:
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'Added radios to exosuits. Setting can be found in ''Electronics''
+      menu.'
+  - unknown: !!python/unicode 'Exosuit maintenance can be initiated even if it''s
+      occupied. The pilot must permit maintenance through ''Permissions &amp;amp;
+      Logging'' - ''Permit maintenance protocols''. For combat exosuits it''s disabled
+      by default. While in maintenance mode, exosuit can''t move or use equipment.'
+2011-10-15:
+  /tg/station team:
+  - unknown: !!python/unicode ' White Cane Safety Day:'
+  !!python/unicode 'Agouri':
+  - unknown: !!python/unicode 'There has been a tidal wave of bugfixes over the last
+      5 or so days. If you had previously tried something on the station, saw that
+      it was bugged and never tried it again, chances are it got fixed. I don''t want
+      you to neglect using stuff because you think it was bugged, which it was at
+      one point, but no longer is. Thanks, happy new semester to everyone~'
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'New hairstyles! <i>YOU</i> never asked for this!'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'When you''re unconscious, paralyzed, sleeping, etc.
+      you will still see the same blackness as always, but it will rarely flicker
+      a bit to allow you to see a little of your surroundings.'
+2011-10-18:
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode "<font color=\"red\">You can now move diagonally!</font>\
+      \ To do so, use the numpad. The keybaord has been remapped to make this possible:\n\
+      \t\t<ul>\n\t\t\t<li>CTRL + A = throw</li>\n\t\t\t<li>CTRL + S = swap hands</li>\n\
+      \t\t\t<li>CTRL + D = drop</li>\n\t\t\t<li>CTRL + W = use item in hand on itself</li>\n\
+      \t\t\t<li>Numpad divide (/) = throw</li>\n\t\t\t<li>Numpad multiply (*) = swap\
+      \ hands</li>\n\t\t\t<li>Numpad subtract (-) = drop</li>\n\t\t\t<li>Numpad add\
+      \ (+) = use item in hand on itself</li>\n\t\t</ul>\n\t"
+2011-10-21:
+  /tg/station team:
+  - unknown: !!python/unicode ' Tuesday:'
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode "<font color=\"red\">Old keyboard hotkey layout option\
+      \ available again!</font> home, end, page down and page up now once again do\
+      \ what they did before by default. To use diagonal movement you will need to\
+      \ use your numpad with NUM LOCK enabled.<br/>\n\t\tThe new list of hotkeys is\
+      \ as follows: (Valid as of 21.10.2011)\n\t\t<ul>\n\t\t\t<li>Numpad with Num\
+      \ Lock enabled = movement in wanted direction.</li>\n\t\t\t<li>Numpad with Num\
+      \ Lock disabled = as it was before. movement north-south-east-west and throw,\
+      \ drop, swap hands, use item on itself.</li>\n\t\t\t<li>Page up (also numpad\
+      \ 9 with num lock disabled) = swap hands</li>\n\t\t\t<li>Page down (also numpad\
+      \ 3 with num lock disabled) = use item in hand on itself</li>\n\t\t\t<li>home\
+      \ (also numpad 7 with num lock disabled) = drop</li>\n\t\t\t<li>end (also numpad\
+      \ 1 with num lock disabled) = throw</li>\n\t\t\t<li>CTRL + A = throw</li>\n\t\
+      \t\t<li>CTRL + S = swap hands</li>\n\t\t\t<li>CTRL + D = drop</li>\n\t\t\t<li>CTRL\
+      \ + W = use item in hand on itself</li>\n\t\t\t<li>Numpad divide (/) = throw</li>\n\
+      \t\t\t<li>Numpad multiply (*) = swap hands</li>\n\t\t\t<li>Numpad subtract (-)\
+      \ = drop</li>\n\t\t\t<li>Numpad add (+) = use item in hand on itself</li>\n\t\
+      \t</ul>\n\t\tIn short, use <font color=\"red\">Num Lock</font> to swap between\
+      \ the two layouts.\n\t"
+2011-10-27:
+  !!python/unicode 'Mport':
+  - unknown: !!python/unicode 'New WIP TK system added.  To activate your TK click
+      the throw button with an empty hand.  This will bring up a tkgrab item.  Click
+      on a non-anchored (currently) non mob Object to select it as your "focus".  Once
+      a focus is selected so long as you are in range of the focus you can now click
+      somewhere to throw the focus at the target.  To quit using TK just drop the
+      tkgrab item.'
+2011-10-29:
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'Added step and turn sounds for mechs'
+  - unknown: !!python/unicode 'Added another mecha equipment - plasma converter. Works
+      similar to portable generator. Uses solid plasma as fuel. Can be refueled either
+      by clicking on it with plasma in hand, or directly from mecha - selecting it
+      and clicking on plasma.'
+  - unknown: !!python/unicode 'Added mecha laser cannon.'
+  - unknown: !!python/unicode 'Added damage absorption for mechs. Different mechs
+      have different absorption for different types of damage.'
+  - unknown: !!python/unicode 'Metal foam now blocks air movement.'
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'More hairs added and a very long beard.'
+  - unknown: !!python/unicode 'Finally fixed the request console announcements going
+      <font color="red"><b>AMP AMP AMP</b></font> all the time when you use punctuation.'
+  !!python/unicode 'Petethegoat':
+  - unknown: !!python/unicode 'Stunglove overhaul: part one. Stun gloves are now made
+      by wiring a pair of gloves, and then attaching a battery- this shows up on the
+      object sprite, but not on your character. Stungloves use 2500 charge per stun!
+      This means that some low capacity batteries will make <i>useless</i> stungloves.
+      To get your old inconspicous gloves back, simply cut away the wire and battery.
+      <font color="red">Note that insulated gloves lose their insulation when you
+      wire them up!</font> <b>Yet to come:</b> stungloves taking extra damage from
+      shocked doors.'
+  - unknown: !!python/unicode "<font color=\"red\">Removed sleepypens!</font> Paralysis\
+      \ pens have been changed to look like normal pens instead of penlights, and\
+      \ have been slightly nerfed. They will paralyse for about fifteen seconds, and\
+      \ cause minor brain damage and dizziness.\n\t"
+  - unknown: !!python/unicode "Uplink Implants now have five telecrystals instead\
+      \ of four.\n  "
+2011-11-07:
+  !!python/unicode 'Kor':
+  - unknown: !!python/unicode 'Repair bots (mechs) are now adminspawn only'
+  - unknown: !!python/unicode 'Extra loyalty implants are now orderable via cargo
+      bay (60 points for 4 implants)'
+  - unknown: !!python/unicode 'Changeling regen stasis now takes two full minutes
+      to use, but can be used while dead. Burning and gibbing are the only way to
+      keep them dead now.'
+2011-11-16:
+  !!python/unicode 'Petethegoat':
+  - unknown: !!python/unicode 'Security, Engineer, Medical, and Janitor borgs no longer
+      get a choice of skin. This is for purposes of quick recognition, and is the
+      first part of a series of upcoming cyborg updates.'
+  !!python/unicode 'Tobba':
+  - unknown: !!python/unicode 'Report any issues with the updated vending machines!'
+2011-11-19:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'Toggling admin midis will now <font color="red"><b>DISABLE
+      THE CURRENT MIDI OH MY GOSH!</b></font>'
+  !!python/unicode 'Kor':
+  - unknown: !!python/unicode 'The PALADIN lawset in the AI upload has been replaced
+      with the corporate lawset'
+  !!python/unicode 'Petethegoat':
+  - unknown: !!python/unicode 'Diagonal movement is gone on account of them proving
+      to be a bad idea in practice. A grand experiment nonetheless.'
+  !!python/unicode 'Tobba':
+  - unknown: !!python/unicode 'We''re looking for feedback on the updated chem dispenser!
+      It no longer dispenses beakers of the reagent, and instead places a variable
+      amount of the reagent into the beaker of your choosing.'
+2011-11-22:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'The firing range now has a purpose. Go check it out;
+      there''s a few surprises!'
+2011-11-27:
+  !!python/unicode 'Kor':
+  - unknown: !!python/unicode 'Changeling husks are now borgable again (though not
+      clonable) and genome requirements were lowered'
+  - unknown: !!python/unicode 'De-revved revolutionaries had their message clarified
+      a bit. You remember the person who flashed you, and so can out ONE revhead'
+  - unknown: !!python/unicode 'Light tubes/bulbs can now be created in the autolathe.
+      Recycle those broken lights!'
+2011-11-30:
+  !!python/unicode 'Vinyl Scratch':
+  - unknown: !!python/unicode 'New ambient sounds for the station and AI Sat.'
+  - unknown: !!python/unicode '<b>He''s b<i>aaaaaa</i>ck...</b>'
+2011-12-03:
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Grass plants in hydro now make grass floor tiles instead
+      of the awkward patches.'
+  !!python/unicode 'Numbers':
+  - unknown: !!python/unicode 'Potency variations tipped in favour of bigger changes
+      over smaller periods of time.'
+  !!python/unicode 'Pete & Erro Christmas update:':
+  - unknown: !!python/unicode 'Reinforced metal renamed to steel and steel floor tile
+      renamed to metal floor tile to avoid confusion before it even happens.'
+  - unknown: !!python/unicode 'It is no longer possible to make steel from metal or
+      vice versa or from the autolathe. You can however make metal from the autolathe
+      and still insert steel to increase the metal resource.'
+  - unknown: !!python/unicode 'To make steel you can now use the mining smelting unit
+      and smelt iron and plasma ore.'
+  - unknown: !!python/unicode 'The RCD can no longer take down reinforced walls.'
+  !!python/unicode 'Petethegoat':
+  - unknown: !!python/unicode 'Fixed all known vending machine issues.'
+  - unknown: !!python/unicode 'Fixed a minor visual bug with emagged lockers.'
+  - unknown: !!python/unicode 'Clarified some of the APC construction/deconstruction
+      messages.'
+  !!python/unicode 'PolymorphBlue':
+  - unknown: !!python/unicode 'Traitors in the escape shuttle''s prison cell will
+      now fail their objective.'
+  - unknown: !!python/unicode 'Lockers are no longer soundproof! (or flashproof, for
+      that matter)'
+  - unknown: !!python/unicode "Headrevs can no longer be borged, revs are dereved\
+      \ when borged.\n  "
+2011-12-08:
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Fixed the comms console locking up when you tried to
+      change the alert level.'
+  - unknown: !!python/unicode 'Added a keycard authentication device, which is used
+      for high-security events. The idea behind it is the same as the two-key thing
+      from submarine movies. You select the event you wish to trigger on one of the
+      devices and then swipe your ID, if someone swipes their ID on one of the other
+      devices within 2 seconds, the event is enacted. These devices are in each of
+      the head''s offices and all heads have the access level to confirm an event,
+      it can also be added to cards at the HoP''s ID computer. The only event that
+      can currently be enacted is Red alert.'
+  !!python/unicode 'Kor':
+  - unknown: !!python/unicode 'The chef now has a fancy dinner mint in his kitchen.
+      It is only wafer thin!'
+2011-12-10:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'Title music now plays in the pregame lobby. You can
+      toggle this with a verb in "Special Verbs" if you really want to.'
+  - unknown: !!python/unicode 'User Interface preferences now properly get transferred
+      when you get cloned.'
+  !!python/unicode 'Erro':
+  - unknown: !!python/unicode 'Escape pods have been added to test the concept.'
+  - unknown: !!python/unicode 'Escaping alone in a pod does not count towards the
+      escape alone objective, it counts towards the escape alive objective tho. Escape
+      alone only requires you to escape alone on the emergency shuttle, it doesn''t
+      require you to ensure all pods are empty. Cult members that escape on the pods
+      do not ocunt towards the cult escaping acolyte number objective. Escaping on
+      a pod is a valid way to survive meteor.'
+  !!python/unicode 'Polymorph':
+  - unknown: !!python/unicode ' Fire is now actually dangerous.  Do not touch fire. '
+2011-12-11:
+  !!python/unicode 'NEO':
+  - unknown: !!python/unicode 'AIs actually consume power from APCs now'
+  - unknown: !!python/unicode 'Bigass malf overhaul. tl;dr no more AI sat, instead
+      you have to play whackamole with APCs.'
+2011-12-14:
+  !!python/unicode 'Erro':
+  - unknown: !!python/unicode 'Meteor mode is hopefully deadly again!'
+  !!python/unicode 'Kor':
+  - unknown: !!python/unicode 'Research director has a new toy: Reactive Teleport
+      Armour. Click it in your hand to activate it and try it out!'
+2011-12-17:
+  !!python/unicode 'Erro':
+  - unknown: !!python/unicode 'Your direct supervisors are now displayed when you
+      are assigned a job at round start or late join.'
+2011-12-18:
+  !!python/unicode 'Carnwennan':
+  - unknown: !!python/unicode 'Thanks to the wonders of modern technology and the
+      Nanotrasen steel press Ian''s head has been shaped to fit even more silly hats.
+      The taxpayers will be pleased.'
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'Vending machines got yet another overhaul! <i>Good
+      lord</i>, when will they stop assfucking those damned vendors??'
+2011-12-19:
+  !!python/unicode 'Kor':
+  - unknown: !!python/unicode "General/Misc Changes\n\t<ul>\n\t<li>Escape pods no\
+      \ longer go to the horrific gibbing chambers. Rather, they will be picked up\
+      \ by a salvage ship in deep space. (This basically changes nothing mechanics\
+      \ wise, just fluff)</li>\n\t<li>An ion rifle now spawns on the nuclear operative\
+      \ shuttle. Maybe this will help with them getting destroyed by sec borgs every\
+      \ round?</li>\n\t</ul>\n\t"
+  - unknown: !!python/unicode "Wizard Changes\n\t<ul>\n\t<li>The wizard can now purchase\
+      \ magic artefacts in addition to spells in a subsection of the spellbook.</li>\n\
+      \t<li>The first (and currently only) new artefact is the Staff of Change, which\
+      \ functions as a self recharging energy weapon with some special effects.</li>\n\
+      \t<li>The wizard has a new alternative set of robes on his shuttle.</li>\n\t\
+      \n\t</ul>\n\t"
+  - unknown: !!python/unicode "Cult Changes<ul>\n\t<li>Cultists now each start with\
+      \ three words (join, blood, self). No more will you suffer at the hands of cultists\
+      \ who refuse to share words.</li>\n\t<li>The starting supply talisman can now\
+      \ be used five times and can now be used to spawn armor and a blade.</li>\n\t\
+      <li>Replaced the sprites on the cultist robes/hood.</li>\n\t</ul>"
+2011-12-21:
+  !!python/unicode 'RavingManiac':
+  - unknown: !!python/unicode 'Kitchen cold room is now cooled by a freezing unit.
+      Temperature is about 240K by default, but can be raised to room temperature
+      or lowered to lethal coldness.'
+2011-12-23:
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'Mech Fabricators now require robotics ID to operate.
+      Emag removes this restriction.'
+  - unknown: !!python/unicode 'Added Odysseus Medical Exosuit. Has integrated Medical
+      Hud and ability to mount medical modules.'
+  - unknown: !!python/unicode 'Added Sleeper Medical module for exosuits. Similar
+      to common sleepers, but no ability to inject reagents.'
+  - unknown: !!python/unicode 'Added Cable Layer module for exosuits. Load with cable
+      (attack cable with it), activate, walk over dismantled floor.'
+  - unknown: !!python/unicode 'Added another exosuit internal damage type - short
+      circuit. Short-circuited exosuits will drain powercell charge and power relay
+      won''t work.'
+  - unknown: !!python/unicode 'You should be able to send messages to exosuit operators
+      using Exosuit Control Console'
+  - unknown: !!python/unicode 'Gygax armour and module capacity nerfed.'
+  - unknown: !!python/unicode 'Exosuit weapon recharge time raised.'
+  - unknown: !!python/unicode 'Bugfix: EMP actually drains exosuit cell and damages
+      it'
+  !!python/unicode 'RavingManiac':
+  - unknown: !!python/unicode 'Meat will now spoil within three minutes at temperatures
+      between 0C and 100C.'
+  - unknown: !!python/unicode 'Rotten meat has the same nutritional value as normal
+      meat, and can be used in
+
+      the same recipes. However, it is toxic, and ingesting a badly-prepared big bite
+
+      burger can kill you.'
+  - unknown: !!python/unicode 'Because refrigeration serves a purpose now, the kitchen
+      cold room freezing unit
+
+      is turned off by default. Chefs should remember to turn the freezer on at the
+
+      start of their shift.'
+2011-12-24:
+  !!python/unicode 'Rockdtben':
+  - unknown: !!python/unicode 'Added sprites for soda can in left and right hands
+      on mob: sodawater, tonic, purple_can, ice_tea_can, energy_drink, thirteen_loko,
+      space_mountain_wind, dr_gibb, starkist, space-up, and lemon-lime.'
+2011-12-25:
+  /tg/station team:
+  - unknown: !!python/unicode ' working on christmas??'
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'Circuit boards for Odysseus mech can be ordered by
+      QM'
+  - unknown: !!python/unicode 'Designs for them were added to R&amp;amp;D'
+  !!python/unicode 'Kor':
+  - unknown: !!python/unicode 'Soul Stones Added: Like intellicards for dead or dying
+      humans! Full details are too long for the changelog'
+  - unknown: !!python/unicode 'A belt full of six soul stones is available as an artefact
+      for the wizard'
+  - unknown: !!python/unicode 'Cultists can buy soulstones with their supply talisman'
+  - unknown: !!python/unicode 'The chaplain has a single soulstone on his desk'
+  - unknown: !!python/unicode 'The reactive teleport armour''s test run is over. It
+      no longer spawns in the RD''s office.'
+2011-12-27:
+  !!python/unicode 'Errorage':
+  - unknown: !!python/unicode 'Engineering''s been remapped'
+  !!python/unicode 'RavingManiac':
+  - unknown: !!python/unicode 'Refrigerators and freezer crates will now preserve
+      meat'
+2011-12-28:
+  !!python/unicode 'RavingManiac':
+  - unknown: !!python/unicode 'Wrapped objects can now be labelled with a pen'
+  - unknown: !!python/unicode 'Wrapped small packages can be picked up, and are now
+      opened by being used on themselves'
+  - unknown: !!python/unicode 'Mail office remapped such that packages flushed down
+      disposals end up on a special table'
+  - unknown: !!python/unicode 'Package wrappers placed in most of the station departments'
+  - unknown: !!python/unicode 'In short, you can now mail things to other departments
+      by wrapping the object, labelling it with the desired destination using a pen,
+      and flushing it down disposals. At the mail room, the cargo tech will then tag
+      and send the package to the department.'
+2011-12-29:
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode 'Added some new Odysseus parts and tweaked old ones.'
+  - unknown: !!python/unicode 'Added Exosuit Syringe Gun Module'
+  - unknown: !!python/unicode 'New Odysseus sprites - courtesy of Veyveyr'
+  !!python/unicode 'Polymorph':
+  - unknown: !!python/unicode 'Air Alarms can now be hacked.'
+  - unknown: !!python/unicode 'Too much of a good thing is just as bad as too little.  Pressures
+      over 3000 kPa will do brute damage.'
+2012-01-01:
+  /tg/station team:
+  - unknown: !!python/unicode ' (12 more months until doomsday)'
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode '<font color="red"><b>XENOS ARE NOW IMMUNE TO STUNNING!</b></font>
+      To compensate, stunning via tasers/batons now slows them down significantly.'
+  !!python/unicode 'Polymorph':
+  - unknown: !!python/unicode 'Doors no longer close if they have a mob in the tile.  (Generally!)  Door
+      safties can now be overriden to close a door with a mob in the tile and injure
+      them severely.'
+2012-01-03:
+  !!python/unicode 'Erro':
+  - unknown: !!python/unicode '<font color="red"><b>Shift-clicking will now examine
+      whatever you clicked on!</b></font>'
+  !!python/unicode 'Polymorph':
+  - unknown: !!python/unicode 'Alt-clicking will now pull whatever you clicked on!'
+2012-01-07:
+  !!python/unicode 'Donkieyo':
+  - unknown: !!python/unicode 'You must now repair damaged plating with a welder before
+      placing a floor tile.'
+  - unknown: !!python/unicode 'You can now relabel canisters if they''re under 1kPa.'
+  !!python/unicode 'Polymorph':
+  - unknown: !!python/unicode 'Dragging your PDA onto your person from your inventory
+      will bring up the PDA screen.'
+  - unknown: !!python/unicode 'You can now send emergancy messages to Centcomm (Or,
+      with some.. tampering, the Syndicate.) via a comms console.  (This occurs in
+      much the fashion as a prayer.)'
+2012-01-08:
+  !!python/unicode 'Agouri':
+  - unknown: !!python/unicode 'I''m back home and resumed work on Newscasters and
+      Contraband.'
+  - unknown: !!python/unicode 'But I got bored and made cargo softcaps instead. Flippable!
+      Enjoy, now all we need is deliverable pizzas.'
+  - unknown: !!python/unicode "Oh, also enjoy some new bodybag functionality and sounds\
+      \ I had ready a while ago, with sprites from Farart. Use a pen to create a visible\
+      \ tag on the bodybag. Wirecutters to cut it off. Also it's no longer weldable\
+      \ because it makes no goddamn sense.\n  "
+2012-01-09:
+  !!python/unicode 'ConstantA':
+  - unknown: !!python/unicode "Reworked exosuit internal atmospherics (the situation\
+      \ when exosuit is set to take air from internal tank, otherwise cabin air =\
+      \ location air): \n\t\t<ul>\n\t\t\t<li>If current cabin presure is lower than\
+      \ &amp;quot;tank output pressure&amp;quot;, the air will be taken from internal\
+      \ tank (if possible), to equalize cabin pressure to &amp;quot;tank output pressure&amp;quot;</li>\n\
+      \t\t\t<li>If current cabin presure is higher than &amp;quot;tank output pressure&amp;quot;,\
+      \ the air will be siphoned from cabin to location until cabin pressure is equal\
+      \ to &amp;quot;tank output pressure&amp;quot;</li>\n\t\t\t<li>Tank air is not\
+      \ altered in any way even if it's overheated or overpressured - connect exosuit\
+      \ to atmos connector port to vent it</li>\n\t\t\t<li>&amp;quot;Tank output pressure&amp;quot;\
+      \ can be set through Maintenance window - Initiate maintenance protocol to get\
+      \ the option</li>\n\t\t</ul>\n\t"
+  - unknown: !!python/unicode 'Fixed bug that prevented exosuit tank air updates if
+      exosuit was connected to connector port'
+  - unknown: !!python/unicode 'Combat exosuits melee won''t gib dead mobs anymore '
+  - unknown: !!python/unicode 'QM exosuit circuit crates cost lowered to 30 points'
+  - unknown: !!python/unicode 'Exosuit plasma converter effectiveness +50%'
+2012-01-15:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode '<b>The radio overhaul ''Telecommunications'' is now
+      LIVE.</b> Please submit any opinions/feedback in the forums and check the wiki
+      article on Telecommunications for some more info for the curious.'
+  - unknown: !!python/unicode 'The AI satellite has been replaced with a communications
+      satellite. You can get there via teleporter or space, just like the AI satellite.
+      I highly recommend not bum-rushing the new satellite, as you may be killed if
+      you don''t have access. It''s a very secure place.'
+  - unknown: !!python/unicode 'Once a human''s toxicity level reaches a certain point,
+      they begin throwing up. This is a natural, but overall ineffective method of
+      purging toxins from the body.'
+  - unknown: !!python/unicode 'You can now travel Z-levels in Nuclear Emergency mode
+      (the nuke disk is still bound to the station). This means the nuclear agents
+      can and probably will fly off into space to blow up the comm satellite and shut
+      down communications.'
+2012-01-17:
+  !!python/unicode 'Doohl':
+  - unknown: !!python/unicode 'Syndicate shuttle now starts with a All-In-One telecommunication
+      machine, which acts as a mini-network for the syndie channel. It intercepts
+      all station radio activity, too, how cool is that?'
+2012-01-19:
+  !!python/unicode 'Petethegoat':
+  - unknown: !!python/unicode 'Exciting new pen additions! Get the low-down at <a
+      href="http://nanotrasen.com/wiki/index.php/Guide_to_paperwork">the wiki</a>.'
+2012-01-27:
+  !!python/unicode 'Blaank':
+  - unknown: !!python/unicode 'Added a vending machine to atmopherics reception desk
+      that dispenses large
+
+      oxygen tanks, plasma tanks, emergency oxegen tanks, extended capacity emergency
+
+      oxygen tanks, and breath masks.'
+  !!python/unicode 'LastyScratch':
+  - unknown: !!python/unicode 'Toggle-Ambience now works properly and has been moved
+      from the OOC tab to the Special Verbs tab to be with all the other toggles.'
+  !!python/unicode 'Petethegoat updated (for a bunch of other people):':
+  - unknown: !!python/unicode 'Lattice is now removed when you create plating or floor
+      (credit Donkieyo).'
+  - unknown: !!python/unicode 'Monkeys now take damage while in crit (credit Nodrak).'
+  - unknown: !!python/unicode 'The warden now has his own jacket. (credit Shiftyeyesshady).'
+  - unknown: !!python/unicode 'Spectacular new dice that will display the proper side
+      when rolled!! (credit TedJustice)'
+  - unknown: !!python/unicode 'Borg RCDs can no longer take down R-walls. (headcoder
+      orders)'
+  !!python/unicode 'RavingManiac':
+  - unknown: !!python/unicode 'The bar now has a "stage" area for performances.'
+2012-01-28:
+  !!python/unicode 'BubbleWrap':
+  - unknown: !!python/unicode 'Arresting buff!'
+  - unknown: !!python/unicode 'A person in handcuffs being pulled cannot be bumped
+      out of the way, nor can the person pulling them. They can still push through
+      a crowd (they get bumped back to behind the person being pulled, or pushed ahead
+      depending on intent).'
+2012-01-29:
+  /tg/station team:
+  - unknown: !!python/unicode ' got Comp Arch exams on Wednesday :('
+  !!python/unicode 'Agouri':
+  - unknown: !!python/unicode '<font face="terminal"><b>UPDATE ON THE UPDATE</b>:
+      Newspapers are now fully working, sorry for that. Some minor icon bugs fixed.
+      Now I''m free to work on the contest prizes :3</font>'
+  - unknown: !!python/unicode '<b><font color="red">Newscasters are now LIVE!</font></b>
+      Bug reports, suggestions for extra uses, tears etc go <a href="http://code.google.com/p/tgstation13/source/detail?r=3005"
+      target="_blank">here</a>.'
+  - unknown: !!python/unicode 'What <b>ARE</b> newscasters? Fans of the Transmetropolitan
+      series might find them familiar. Basically, they''re terminals connected to
+      a station-wide news network. Users are able to submit channels of their own
+      (one per identified user, with channels allowing feed stories by other people
+      or, if you want the channel to be your very own SpaceJournal, being submit-locked
+      to you), while others are able to read the channels, either through the terminals
+      or a printed newspaper which contains every news-story circulating at the time
+      of printing.'
+  - unknown: !!python/unicode 'About censorship: You can censor channels and feed
+      stories through Security casters, found in the HoS''es office and the Bridge.
+      Alternatively, if you want a channel to stop operating completely, you can mark
+      it with a D-Notice which will freeze it and make all its messages unreadable
+      for the duration it is in effect. If you''ve got the access, of course.'
+  - unknown: !!python/unicode 'Basically I think of the newscaster as nothing more
+      as an additional Roleplaying tool. Grab a newspaper along with your donuts and
+      coffee from the machines, read station rumors when you''re manning your desk,
+      be a station adventurer or journalist with your very own network journal!'
+  - unknown: !!python/unicode 'I would ask for a bit of respect when using the machine,
+      though. I removed all and any channel and story restrictions regarding content,
+      so you might end up seeing channels that violate the rules, Report those to
+      the admins.'
+  - unknown: !!python/unicode "Finally, due to the removal of the enforced \"Channel\"\
+      \ string, it's recommended to name your channels properly (\"Station Paranormal\
+      \ Activity Channel\" instead of \"Station Paranormal Activity\", for example\"\
+      )\n\n  "
+2012-01-30:
+  !!python/unicode 'Sieve':
+  - unknown: !!python/unicode 'This stuff is actually already implemented, it just
+      didn''t make it to the changelog'
+  - unknown: !!python/unicode 'Firefighter Mech - A reinforced Ripley that is more
+      resistant to better cope with fires, simply look in the Ripley Contruction manual
+      for instructions.'
+  - unknown: !!python/unicode 'Mech contruction now has sounds for each step, not
+      just 1/4 of them.'
+  - unknown: !!python/unicode 'Mech Fabricators are fixed, Manual Sync now works and
+      certain reseach will reduce the time needed to build components.'
+  - unknown: !!python/unicode 'Added special flaps to the mining station that disallow
+      air-flow, removing the need to shuffle Ore Boxes through the Airlocks.'
+  - unknown: !!python/unicode 'Each outpost has it''s own system for the conveyors
+      so they won''t interfere with each other.'
+  - unknown: !!python/unicode 'Powercell chargers have been buffed so now higher capacity
+      cells are actually useable.'
+  - unknown: !!python/unicode 'A diamond mech drill has been added. While it isn''t
+      any stronger than the standard drill, it is much faster.'
+2012-01-31:
+  !!python/unicode 'Carn':
+  - unknown: !!python/unicode 'Grammar &amp; various bug-fixes'
+  - unknown: !!python/unicode 'Thank-you to everyone who reported spelling/grammar
+      mistakes. I''m still working on it, so if you spot anymore please leave a comment
+      <a href="http://nanotrasen.com/phpBB3/viewtopic.php?f=3&amp;t=7578" target="_blank">here</a>.
+      There''s still lots to fix.'
+  - unknown: !!python/unicode 'Mining station areas should no longer lose air.'
