@@ -14,6 +14,8 @@ dateformat1 = "%B %d %Y"
 dateformat2 = "%A %B %d %Y"
 dateformat3 = "%A %B %d"
 dateformat4 = "%d %B %Y %A"
+dateformat5 = "%d.%m.%Y"
+dateformat6 = "%A %B %d %Y"
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
@@ -21,6 +23,7 @@ from bs4.element import NavigableString
 opt = argparse.ArgumentParser()
 opt.add_argument('-t', '--type', dest='type', default=1, type=int, help='Parser type to use')
 opt.add_argument('targetFile', help='The HTML changelog we wish to parse')
+opt.add_argument('destFile', help='Where to write the yaml')
 
 args = opt.parse_args()
 all_changelog_entries = {}
@@ -171,8 +174,97 @@ if args.type == 3 and os.path.isfile(args.targetFile):
                             all_changelog_entries[date].update(entry)
                         else:
                             all_changelog_entries[date] = entry
+
+#fourth type of changelog
+if args.type == 4 and os.path.isfile(args.targetFile):
+    with open(args.targetFile, 'r') as f:
+        soup = BeautifulSoup(f)
+        for e in soup.find_all('h5'):
+            datestring = e.string
+            dssplit = datestring.split(',' )
+            if len(dssplit) == 2:
+                datestring = dssplit[0]
+            elif len(dssplit) == 3:
+                datestring = dssplit[0] + dssplit[1] + ' 2010'
+            datestring = datestring.strip(' ,:)(').replace(',', '')
+            datestring = re.sub(regex, '\g<date>', datestring)
+            print(datestring)
+            if validate(datestring, dateformat5):
+                date = datetime.strptime(datestring, dateformat5).date()  # key
+            else:
+                date = datetime.strptime(datestring, dateformat6).date()
+            author = '/tg/station ss13 team' #authors lost to time rip
+            #get ul of changes
+            changes = []
+            entry = {}
+            for itemT in e.next_sibling.next_sibling.children:
+                if itemT.name != 'li': continue
+                val = itemT.decode_contents(formatter="html")
+                newdat = {'unknown' + '': val + ''}
+                changes += [newdat]
+            print(changes)
+            if len(changes) > 0 and author:
+                entry[author] = changes
+                if date in all_changelog_entries:
+                    all_changelog_entries[date].update(entry)
+                else:
+                    all_changelog_entries[date] = entry
+
+#fifth type of changelog
+if args.type == 5 and os.path.isfile(args.targetFile):
+    with open(args.targetFile, 'r') as f:
+        soup = BeautifulSoup(f)
+        for e in soup.find_all('h5'):
+            datestring = e.string
+            datestring = datestring.strip(' ,:)(').replace(',', '')
+            datestring = re.sub(regex, '\g<date>', datestring)
+            date = datetime.strptime(datestring, dateformat6).date()
+            author = '/tg/station ss13 team' #authors lost to time rip
+            #get ul of changes
+            changes = []
+            entry = {}
+            for itemT in e.next_sibling.next_sibling.children:
+                if itemT.name != 'li': continue
+                val = itemT.decode_contents(formatter="html")
+                newdat = {'unknown' + '': val + ''}
+                changes += [newdat]
+            print(changes)
+            if len(changes) > 0 and author:
+                entry[author] = changes
+                if date in all_changelog_entries:
+                    all_changelog_entries[date].update(entry)
+                else:
+                    all_changelog_entries[date] = entry
+#sixth type of changelog
+if args.type == 6 and os.path.isfile(args.targetFile):
+    with open(args.targetFile, 'r') as f:
+        soup = BeautifulSoup(f)
+        for e in soup.find_all('h5'):
+            if e.b and e.b.font:
+                datestring = e.b.font.string
+            else:
+                datestring = e.string
+            datestring = datestring.strip(' ,:)(').replace(',', '')
+            datestring = re.sub(regex, '\g<date>', datestring)
+            date = datetime.strptime(datestring, dateformat6).date()
+            author = '/tg/station ss13 team' #authors lost to time rip
+            #get ul of changes
+            changes = []
+            entry = {}
+            for itemT in e.next_sibling.next_sibling.children:
+                if itemT.name != 'li': continue
+                val = itemT.decode_contents(formatter="html")
+                newdat = {'unknown' + '': val + ''}
+                changes += [newdat]
+            print(changes)
+            if len(changes) > 0 and author:
+                entry[author] = changes
+                if date in all_changelog_entries:
+                    all_changelog_entries[date].update(entry)
+                else:
+                    all_changelog_entries[date] = entry
                 
 
-with open('test.yaml', 'w') as f:
+with open(args.destFile, 'w') as f:
     yaml.dump(all_changelog_entries, f, default_flow_style=False)
 
