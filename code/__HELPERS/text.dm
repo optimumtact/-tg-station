@@ -70,12 +70,14 @@
 	var/non_whitespace = 0
 	for(var/i=1, i<=length(text), i++)
 		switch(text2ascii(text,i))
-			if(62,60,92,47)
-				return			//rejects the text if it contains these bad characters: <, >, \ or /
-			if(127 to 255)
-				return			//rejects weird letters like �
-			if(0 to 31)
-				return			//more weird stuff
+			if(62,60,92)
+				return			//rejects the text if it contains these bad characters: <, >, \
+			if(123 to 255)
+				return			//undefined after 127
+			if(0 to 47)
+				return			//most punctuation and control feeds
+			if(91 to 96)        //more punctuation slapped in the middle
+				return
 			if(32)
 				continue		//whitespace
 			else
