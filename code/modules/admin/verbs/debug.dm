@@ -175,6 +175,11 @@ But you can call procs that are of type /mob/living/carbon/human/proc/ for that 
 		message_admins("[key_name_admin(src)] has deleted all ([counter]) instances of [hsbitem].")
 		SSblackbox.record_feedback("tally", "admin_verb", 1, "Delete All") //If you are copy-pasting this, ensure the 2nd parameter is unique to the new proc!
 
+/client/proc/toggle_pathmodeself()
+	set category = "Debug"
+	set name = "Enable pathfinder debugging"
+	if(src.mob)
+		togglepathmode(src.mob)
 
 /client/proc/cmd_debug_make_powernets()
 	set category = "Debug"
